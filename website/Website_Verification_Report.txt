@@ -1,0 +1,156 @@
+﻿Website Genuineness Verification System  |  Project Report
+CODETHON 2026
+Project Report
+Website Genuineness Verification System
+
+Verifying the authenticity of websites to protect users from phishing,
+scam, and malicious online threats.
+
+
+EventCodethon 2026 — Innovate, Create, InspireProblem StatementVerify whether a given website is genuine or notDomainCybersecurity / Web SafetyTech StackPython (Flask), HTML/CSS, JavaScriptReport Date3 March 2026
+Table of Contents
+
+
+
+1. Introduction
+The internet has become central to daily life — people use it for banking, shopping, education, healthcare, and communication. However, the same web that empowers also exposes users to serious threats like phishing sites, scam portals, and malware-distributing pages.
+
+This project, Website Genuineness Verification System, aims to build an automated tool that analyzes any given URL and determines whether the website is trustworthy or potentially malicious. It does this by combining multiple detection signals — SSL validation, domain age analysis, blacklist checks, IP intelligence, and content scanning — into a unified trust score.
+
+1.1 Motivation
+• Over 1.5 million phishing websites are created every month globally.
+• Many users, especially first-time internet users, cannot distinguish fake sites from real ones.
+• Existing tools are either paid, API-limited, or too technical for general users.
+• There is a need for a simple, open, fast verification tool usable by anyone.
+
+1.2 Scope
+This project covers the design, development, and deployment of a web-based verification tool. It will accept any URL as input and return a structured analysis report with a trust score and verdict.
+
+2. Problem Statement & Objectives
+The core problem is:
+
+"Given a URL entered by a user, automatically determine whether the website is genuine, suspicious, or malicious — and explain why."
+
+2.1 Objectives
+1. Accept any URL as input via a web interface.
+2. Perform multi-layered verification checks automatically.
+3. Compute a weighted trust score based on all checks.
+4. Display a clear verdict: Genuine, Suspicious, or Malicious.
+5. Provide detailed findings for each verification layer.
+6. Store results for historical lookup and reporting.
+
+2.2 Expected Output
+• Trust Score (0–100) with color-coded rating
+• Verdict label: Genuine / Suspicious / Malicious
+• Breakdown of each check (SSL, WHOIS, Blacklist, Content, IP)
+• Downloadable verification report
+
+3. System Architecture
+The system follows a layered 3-tier architecture: Presentation Layer (Frontend), Business Logic Layer (Flask Backend), and Data Layer (Database + External APIs).
+
+3.1 Architecture Overview
+Presentation LayerBusiness Logic LayerData Layer• HTML/CSS/JavaScript
+• Bootstrap UI
+• URL Input Form
+• Results Dashboard• Flask Web Framework
+• Verification Engine
+• Score Calculator
+• Report Generator• SQLite / PostgreSQL
+• WHOIS API
+• VirusTotal API
+• Google Safe Browsing
+3.2 Request Flow
+7. User enters URL in the web interface.
+8. Flask backend receives the URL and initiates verification pipeline.
+9. Each verification module runs in parallel or sequence.
+10. Results are aggregated into a Reputation Score.
+11. Final verdict and report are sent back to the user.
+
+3.3 Verification Pipeline
+• Step 1: URL Parser — extracts domain, TLD, subdomain, protocol
+• Step 2: SSL Checker — validates certificate issuer, expiry, authenticity
+• Step 3: WHOIS Lookup — retrieves domain age, registrar, owner info
+• Step 4: Blacklist Check — queries VirusTotal, PhishTank, Google Safe Browsing
+• Step 5: Content Analyzer — scans page HTML for phishing keywords & scripts
+• Step 6: IP Intelligence — checks hosting provider, VPN/proxy flags, geolocation
+• Step 7: Score Engine — computes weighted trust score and verdict
+
+4. ER Diagram / Database Design
+The system uses a relational database. The following entities and relationships define the data model:
+
+4.1 Entity Descriptions
+EntityDescriptionUSERStores user details — name, email, role, and registration dateURLRepresents a website being verified — raw URL, domain, TLD, protocol, timestampsVERIFICATION_REQUESTTracks each verification request — links user to URL, stores verdict and trust scoreSSL_CERTIFICATEStores SSL cert details — issuer, validity dates, whether self-signed or validDOMAIN_INFOWHOIS data — registrar, registration date, expiry, domain age, countryBLACKLIST_CHECKResults from blacklist sources — threat type, whether URL is listedCONTENT_ANALYSISPage content scan — phishing patterns, malicious scripts, spam scoreIP_INFOIP address details — ISP, country, VPN/proxy/Tor node flagsREPUTATION_SCOREAggregated scores per module — final trust score and trust levelREPORTGenerated report for a verification request — summary, findings, recommendations
+4.2 Key Relationships
+• USER submits one or more VERIFICATION_REQUESTs
+• VERIFICATION_REQUEST targets one URL
+• URL has one SSL_CERTIFICATE, one DOMAIN_INFO, one CONTENT_ANALYSIS, one IP_INFO
+• URL is checked against multiple BLACKLIST sources
+• URL has one REPUTATION_SCORE (aggregated from all checks)
+• VERIFICATION_REQUEST generates one REPORT
+
+Note: The full ER Diagram in Mermaid format is provided as a separate file (website-verification-diagram.mermaid) alongside this report.
+
+5. Tech Stack & Tools
+LayerTechnologyPurposeFrontendHTML5, CSS3, Bootstrap 5Responsive UI for URL input and results displayFrontendJavaScript (Fetch API)Async requests to Flask backendBackendPython 3.10+Core language for all server-side logicBackendFlask (Web Framework)REST API endpoints, routing, request handlingBackendRequests LibraryHTTP calls to external APIs (WHOIS, VirusTotal)DatabaseSQLite (Dev) / PostgreSQL (Prod)Storing URLs, checks, scores, reportsDatabaseSQLAlchemy ORMDatabase abstraction and model managementSecuritypython-whoisDomain registration and age lookupSecurityssl / cryptographySSL certificate validationSecurityVirusTotal APIBlacklist and malware detectionSecurityGoogle Safe Browsing APIPhishing and malware URL checksSecurityipwhois / ip-apiIP geolocation and proxy detectionDevOpsGit + GitHubVersion control and collaborationDevOpsRender / Railway / PythonAnywhereFree cloud deployment for students
+5.1 Why Python + Flask?
+• Python has rich libraries for security, networking, and web scraping
+• Flask is lightweight and easy to set up — ideal for hackathon timelines
+• Huge community support with free API wrappers available
+• Easy to deploy on free platforms like PythonAnywhere or Render
+
+6. Module-wise Development Plan
+ModuleDescriptionTech UsedEst. HoursURL ParserExtract and validate domain, subdomain, TLD, protocol from input URLurllib, tldextract2 hrsSSL CheckerFetch and validate SSL certificate — check issuer, expiry, self-signed flagssl, cryptography3 hrsWHOIS / DomainQuery domain registration details and calculate domain agepython-whois3 hrsBlacklist CheckQuery VirusTotal + Google Safe Browsing + PhishTank APIsrequests, API keys4 hrsContent AnalyzerScrape page HTML and scan for phishing patterns, suspicious JSBeautifulSoup, re4 hrsIP IntelligenceResolve IP, check VPN/proxy flags, geolocationipwhois, ip-api3 hrsScore EngineAggregate all module results with weights, compute final trust scorePython logic3 hrsFlask APIREST endpoints: /verify, /report, /historyFlask, SQLAlchemy4 hrsFrontend UIInput form, results dashboard, score visualizationHTML/CSS/JS, Bootstrap4 hrsDatabase LayerModels for all entities, migrations, CRUD operationsSQLAlchemy, SQLite2 hrsTesting & QAUnit tests for each module, integration tests, edge casespytest, unittest3 hrsDeploymentDeploy to free cloud platform, configure environment variablesRender/Railway2 hrs
+6.1 Scoring Weights
+Verification ModuleWeight (%)RationaleBlacklist Check35%Strongest signal — direct threat database hitSSL Certificate20%No SSL = high risk; expired = moderate riskDomain Age20%Very new domains are highly suspiciousContent Analysis15%Phishing patterns directly indicate fraudIP Intelligence10%VPN/Tor usage raises suspicion level
+7. What Else Is Needed to Complete This Project
+Beyond the code and design, here is everything needed to successfully build, test, and present this project:
+
+7.1 API Keys (Free Tier Available)
+• VirusTotal API — free tier: 4 lookups/min (virustotal.com)
+• Google Safe Browsing API — free via Google Cloud Console
+• IPInfo.io or ip-api.com — free tier for IP geolocation
+• WhoisXML API — free 500 requests/month
+
+7.2 Development Environment
+• Python 3.10+ installed
+• VS Code or PyCharm IDE
+• pip packages: flask, sqlalchemy, requests, python-whois, beautifulsoup4, tldextract, cryptography
+• Postman or Thunder Client for API testing
+• Git for version control
+
+7.3 Deployment (Free Options for Students)
+• PythonAnywhere — easiest for Flask apps, free tier available
+• Render.com — free web service with GitHub auto-deploy
+• Railway.app — generous free tier for student projects
+• GitHub Pages — for hosting the frontend if separated
+
+7.4 Presentation Needs
+• Live demo of the tool with 3-4 test URLs (real, phishing, expired)
+• Screenshot walkthrough as fallback if internet fails
+• Slide deck with architecture, ER diagram, and score breakdown
+• 3-minute demo script prepared and rehearsed
+
+7.5 Testing Checklist
+• Test with a known phishing URL from PhishTank
+• Test with a legitimate banking site (e.g., sbi.co.in)
+• Test with an expired SSL site
+• Test with a brand-new domain (< 30 days old)
+• Test with a URL using HTTP (no SSL)
+
+8. Project Timeline (Hackathon 24 Hours)
+HourMilestoneDeliverableHour 0–1Design submission — this report + ER diagramReport, UML/ER, plan approvedHour 1–4Flask app setup, database models, URL parserWorking Flask server + DBHour 4–8SSL, WHOIS, Blacklist modules3 core modules workingHour 8–12Content Analyzer + IP Intelligence modulesFull pipeline workingHour 12–16Score engine + Flask REST APIAPI returning trust scoresHour 16–20Frontend UI — input form + results pageWorking web interfaceHour 20–23Testing, bug fixes, deploymentLive deployed appHour 23–24Demo prep, slide polish, rehearsalReady for jury presentation
+9. References
+12. VirusTotal API Documentation — https://developers.virustotal.com
+13. Google Safe Browsing API — https://developers.google.com/safe-browsing
+14. PhishTank Database — https://phishtank.org
+15. python-whois library — https://pypi.org/project/python-whois
+16. Flask Documentation — https://flask.palletsprojects.com
+17. BeautifulSoup4 — https://www.crummy.com/software/BeautifulSoup
+18. OWASP Phishing Guide — https://owasp.org/www-project-phishing-faq
+19. Cryptography library — https://cryptography.io
+20. ipwhois library — https://pypi.org/project/ipwhois
+21. SQLAlchemy ORM — https://docs.sqlalchemy.org
+
+
+End of Report  |  Codethon 2026
+Codethon 2026  |  Page 

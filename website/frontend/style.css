@@ -1,0 +1,264 @@
+/* General Styles */
+body {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+/* Card Styling */
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-radius: 15px 15px 0 0;
+    padding: 30px;
+    text-align: center;
+}
+
+.card-header h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.card-header .lead {
+    font-size: 1.1rem;
+    font-weight: 300;
+    margin: 0;
+}
+
+.card-body {
+    padding: 30px;
+}
+
+/* Form Styling */
+#verify-form {
+    margin-bottom: 0;
+}
+
+.form-control-lg {
+    border-radius: 10px;
+    border: 2px solid #e0e0e0;
+    padding: 12px 20px;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+}
+
+.form-control-lg:focus {
+    border-color: #667eea;
+    box-shadow: 0 0 0 0.2rem rgba(102, 126, 234, 0.25);
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border: none;
+    border-radius: 10px;
+    padding: 12px 30px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+}
+
+.btn-primary:active {
+    transform: translateY(0);
+}
+
+.form-text {
+    display: block;
+    margin-top: 10px;
+}
+
+/* Badge Styling */
+.badge {
+    padding: 10px 20px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border-radius: 8px;
+}
+
+.badge.bg-success {
+    background-color: #28a745 !important;
+}
+
+.badge.bg-warning {
+    background-color: #ffc107 !important;
+    color: #000;
+}
+
+.badge.bg-danger {
+    background-color: #dc3545 !important;
+}
+
+/* Progress Bar */
+.progress {
+    border-radius: 10px;
+    background-color: #e9ecef;
+    overflow: hidden;
+}
+
+.progress-bar {
+    background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+    transition: width 0.6s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 600;
+}
+
+/* List Styles */
+.list-group-item {
+    border: 1px solid #e9ecef;
+    border-radius: 8px;
+    padding: 12px 15px;
+    margin-bottom: 8px;
+    background-color: #f8f9fa;
+    transition: all 0.3s ease;
+}
+
+.list-group-item:hover {
+    background-color: #e9ecef;
+    transform: translateX(5px);
+}
+
+.list-group-item strong {
+    color: #667eea;
+    text-transform: capitalize;
+}
+
+/* Alert Styles */
+.alert {
+    border-radius: 10px;
+    border: none;
+}
+
+.alert-danger {
+    background-color: #f8d7da;
+    color: #721c24;
+}
+
+/* Results Section */
+#result-container {
+    animation: slideInUp 0.5s ease;
+}
+
+@keyframes slideInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Header Styling */
+h5 {
+    color: #333;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+h6 {
+    color: #667eea;
+    font-weight: 600;
+}
+
+/* Component Scores Section */
+#report-component-scores {
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+/* Warnings Section */
+#warnings-container {
+    background-color: #fff3cd;
+    border-left: 4px solid #ffc107;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.text-warning {
+    color: #ff6b6b !important;
+}
+
+/* Loading Spinner */
+.spinner-border {
+    color: white;
+    width: 50px;
+    height: 50px;
+}
+
+.d-none {
+    display: none !important;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .card-header h1 {
+        font-size: 1.8rem;
+    }
+
+    .card-header .lead {
+        font-size: 0.9rem;
+    }
+
+    .form-control-lg,
+    .btn-primary {
+        font-size: 0.9rem;
+        padding: 10px 15px;
+    }
+
+    .row {
+        margin-bottom: 20px;
+    }
+
+    .col-md-6 {
+        margin-bottom: 20px;
+    }
+}
+
+/* Button Styles */
+.btn-secondary {
+    background-color: #6c757d;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    transition: all 0.3s ease;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+    transform: translateY(-2px);
+}
+
+/* Text Utilities */
+.text-break {
+    word-break: break-all;
+    color: #495057;
+    font-weight: 500;
+}
+
+/* Timestamp Display */
+#report-timestamp {
+    font-size: 0.9rem;
+    color: #6c757d;
+}

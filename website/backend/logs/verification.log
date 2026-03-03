@@ -1,0 +1,884 @@
+2026-03-03 19:33:52,140 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:33:52,142 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:33:52,143 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:33:52,146 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:33:52,566 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:33:52,570 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:33:55,611 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'C:\\Users\\ELCOT\\website\\backend\\app.py', reloading
+2026-03-03 19:33:56,846 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:33:56,846 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:33:56,848 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:33:56,851 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:33:56,861 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:33:56,862 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:33:56,898 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:33:57,273 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:33:57,277 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:33:59,302 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'C:\\Users\\ELCOT\\website\\backend\\app.py', reloading
+2026-03-03 19:34:00,364 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:34:00,364 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:34:00,366 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:34:00,367 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:34:00,374 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:34:00,375 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:34:00,395 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:34:00,699 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:34:00,702 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:34:14,792 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'C:\\Users\\ELCOT\\website\\backend\\app.py', reloading
+2026-03-03 19:34:16,005 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:34:16,008 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:34:16,009 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:34:16,011 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:34:16,016 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:34:16,016 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:34:16,040 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:34:16,394 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:34:16,397 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:34:24,458 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'C:\\Users\\ELCOT\\website\\backend\\modules\\url_parser.py', reloading
+2026-03-03 19:34:25,508 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:34:25,508 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:34:25,510 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:34:25,511 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:34:25,518 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:34:25,518 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:34:25,540 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:34:25,864 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:34:25,867 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:34:35,937 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'C:\\Users\\ELCOT\\website\\backend\\modules\\ssl_checker.py', reloading
+2026-03-03 19:34:37,023 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:34:37,025 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:34:37,025 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:34:37,027 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:34:37,032 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:34:37,032 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:34:37,052 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:34:37,347 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:34:37,350 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:34:49,441 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'C:\\Users\\ELCOT\\website\\backend\\modules\\whois_lookup.py', reloading
+2026-03-03 19:34:50,393 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:34:50,393 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:34:50,394 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:34:50,396 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:34:50,399 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:34:50,399 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:34:50,421 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:34:50,711 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:34:50,714 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:35:05,838 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'C:\\Users\\ELCOT\\website\\backend\\modules\\content_analyzer.py', reloading
+2026-03-03 19:35:07,055 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:35:07,055 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:35:07,057 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:35:07,059 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:35:07,064 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:35:07,065 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:35:07,087 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:35:07,377 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:35:07,380 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:35:24,489 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'C:\\Users\\ELCOT\\website\\backend\\modules\\ip_intelligence.py', reloading
+2026-03-03 19:35:25,330 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:35:25,331 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:35:25,331 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:35:25,333 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:35:25,340 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:35:25,340 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:35:25,359 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:35:25,664 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:35:25,669 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:35:48,829 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'C:\\Users\\ELCOT\\website\\backend\\modules\\blacklist_check.py', reloading
+2026-03-03 19:35:49,742 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:35:49,742 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:35:49,743 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:35:49,745 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:35:49,748 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:35:49,748 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:35:49,769 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:35:50,037 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:35:50,039 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:36:09,159 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'C:\\Users\\ELCOT\\website\\backend\\modules\\score_engine.py', reloading
+2026-03-03 19:36:10,007 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:36:10,008 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:36:10,008 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:36:10,012 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:36:10,015 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:36:10,015 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:36:10,032 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:36:10,294 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:36:10,298 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:39:26,270 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:39:26,270 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:39:26,270 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:39:26,271 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:39:26,276 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:39:26,276 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:39:26,295 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:39:26,664 - werkzeug - INFO - [_internal.py:97] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.33.142:5000
+2026-03-03 19:39:26,666 - werkzeug - INFO - [_internal.py:97] - [33mPress CTRL+C to quit[0m
+2026-03-03 19:39:26,668 - werkzeug - INFO - [_internal.py:97] -  * Restarting with stat
+2026-03-03 19:39:27,312 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:39:27,312 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:39:27,314 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:39:27,315 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:39:27,322 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:39:27,322 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:39:27,346 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:39:27,616 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:39:27,620 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:39:40,509 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [03/Mar/2026 19:39:40] "OPTIONS /verify HTTP/1.1" 200 -
+2026-03-03 19:39:40,766 - __main__ - INFO - [app.py:166] - [VERIFY REQUEST] Starting verification for URL: https://google.com
+2026-03-03 19:39:40,767 - modules.url_parser - DEBUG - [url_parser.py:15] - URLParser initialized
+2026-03-03 19:39:40,768 - modules.ssl_checker - DEBUG - [ssl_checker.py:17] - SSLChecker initialized
+2026-03-03 19:39:40,768 - modules.whois_lookup - DEBUG - [whois_lookup.py:14] - WHOISLookup initialized
+2026-03-03 19:39:40,770 - modules.blacklist_check - DEBUG - [blacklist_check.py:18] - BlacklistCheck initialized
+2026-03-03 19:39:40,770 - modules.content_analyzer - DEBUG - [content_analyzer.py:26] - ContentAnalyzer initialized
+2026-03-03 19:39:40,772 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:16] - IPIntelligence initialized
+2026-03-03 19:39:40,772 - modules.score_engine - DEBUG - [score_engine.py:20] - ScoreEngine initialized with weights: {'blacklist': 0.35, 'ssl': 0.2, 'domain_age': 0.2, 'content': 0.15, 'ip': 0.1}
+2026-03-03 19:39:40,773 - __main__ - DEBUG - [app.py:180] - All verification modules initialized
+2026-03-03 19:39:40,773 - __main__ - INFO - [app.py:183] - [STEP 1] Parsing URL...
+2026-03-03 19:39:40,773 - modules.url_parser - DEBUG - [url_parser.py:29] - Parsing URL: https://google.com
+2026-03-03 19:39:40,775 - filelock - DEBUG - [_api.py:497] - Attempting to acquire lock 1903481447760 on C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2026-03-03 19:39:40,776 - filelock - DEBUG - [_api.py:500] - Lock 1903481447760 acquired on C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2026-03-03 19:39:40,780 - filelock - DEBUG - [_api.py:537] - Attempting to release lock 1903481447760 on C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2026-03-03 19:39:40,780 - filelock - DEBUG - [_api.py:541] - Lock 1903481447760 released on C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2026-03-03 19:39:40,833 - modules.url_parser - DEBUG - [url_parser.py:69] - URL validation result for 'https://google.com': True
+2026-03-03 19:39:40,834 - modules.url_parser - INFO - [url_parser.py:50] - URL parsed successfully - Domain: google.com, TLD: com, Valid: True
+2026-03-03 19:39:40,935 - __main__ - INFO - [app.py:191] - [STEP 2] Running verification checks...
+2026-03-03 19:39:40,940 - __main__ - INFO - [app.py:193] - [CHECK] Starting SSL Certificate check...
+2026-03-03 19:39:40,944 - modules.ssl_checker - INFO - [ssl_checker.py:30] - Starting SSL certificate check for domain: google.com
+2026-03-03 19:39:40,992 - modules.ssl_checker - DEBUG - [ssl_checker.py:33] - Connecting to google.com:443 for SSL check...
+2026-03-03 19:39:41,197 - modules.ssl_checker - DEBUG - [ssl_checker.py:38] - SSL certificate retrieved for google.com
+2026-03-03 19:39:41,200 - modules.ssl_checker - ERROR - [ssl_checker.py:84] - Unexpected error during SSL check for google.com: 'datetime.datetime' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\website\backend\modules\ssl_checker.py", line 48, in check
+    expiry_date = cert_obj.not_valid_after()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'datetime.datetime' object is not callable
+2026-03-03 19:39:41,202 - __main__ - INFO - [app.py:195] - [CHECK] SSL result: {'status': 'Error', 'error': "'datetime.datetime' object is not callable", 'score': 20}
+2026-03-03 19:39:41,202 - __main__ - INFO - [app.py:197] - [CHECK] Starting WHOIS/Domain Age check...
+2026-03-03 19:39:41,204 - modules.whois_lookup - INFO - [whois_lookup.py:27] - Starting WHOIS lookup for domain: google.com
+2026-03-03 19:39:43,525 - modules.whois_lookup - ERROR - [whois_lookup.py:68] - WHOIS lookup failed for google.com: [WinError 10061] No connection could be made because the target machine actively refused it
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\website\backend\modules\whois_lookup.py", line 29, in check
+    domain_info = whois.whois(domain)
+                  ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\__init__.py", line 46, in whois
+    text = nic_client.whois_lookup(None, domain.encode("idna"), flags, quiet=quiet)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 425, in whois_lookup
+    nichost = self.choose_server(query_arg)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 390, in choose_server
+    return self.findwhois_iana(tld)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 150, in findwhois_iana
+    s.connect(("whois.iana.org", 43))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-03 19:39:43,527 - __main__ - INFO - [app.py:199] - [CHECK] WHOIS result: {'status': 'Not Found or Error', 'error': '[WinError 10061] No connection could be made because the target machine actively refused it', 'domain_age': 'Unknown', 'domain_age_days': 0, 'score': 30}
+2026-03-03 19:39:43,528 - __main__ - INFO - [app.py:201] - [CHECK] Starting Blacklist check...
+2026-03-03 19:39:43,528 - modules.blacklist_check - INFO - [blacklist_check.py:30] - Starting blacklist check for URL: https://google.com
+2026-03-03 19:39:43,528 - modules.blacklist_check - DEBUG - [blacklist_check.py:43] - Checking VirusTotal...
+2026-03-03 19:39:43,529 - modules.blacklist_check - DEBUG - [blacklist_check.py:105] - VirusTotal API key not configured
+2026-03-03 19:39:43,529 - modules.blacklist_check - DEBUG - [blacklist_check.py:53] - VirusTotal API key not available, skipping
+2026-03-03 19:39:43,531 - modules.blacklist_check - DEBUG - [blacklist_check.py:56] - Checking Google Safe Browsing...
+2026-03-03 19:39:43,531 - modules.blacklist_check - DEBUG - [blacklist_check.py:139] - Google Safe Browsing API key not configured
+2026-03-03 19:39:43,533 - modules.blacklist_check - DEBUG - [blacklist_check.py:65] - Google Safe Browsing API key not available, skipping
+2026-03-03 19:39:43,534 - modules.blacklist_check - DEBUG - [blacklist_check.py:68] - Checking PhishTank...
+2026-03-03 19:39:43,534 - modules.blacklist_check - DEBUG - [blacklist_check.py:181] - PhishTank check for https://google.com (placeholder)
+2026-03-03 19:39:43,536 - modules.blacklist_check - DEBUG - [blacklist_check.py:75] - PhishTank result: {'is_listed': False, 'phishing_score': 0}
+2026-03-03 19:39:43,536 - modules.blacklist_check - INFO - [blacklist_check.py:90] - URL https://google.com passed blacklist check - Score: 100
+2026-03-03 19:39:43,538 - __main__ - INFO - [app.py:203] - [CHECK] Blacklist result: {'status': 'Not Listed', 'is_malicious': False, 'threats_detected': 0, 'sources_checked': ['PhishTank'], 'verdict': 'Safe', 'score': 100, 'details': {'phishtank': {'is_listed': False, 'phishing_score': 0}}}
+2026-03-03 19:39:43,538 - __main__ - INFO - [app.py:205] - [CHECK] Starting Content Analysis...
+2026-03-03 19:39:43,539 - modules.content_analyzer - INFO - [content_analyzer.py:38] - Starting content analysis for URL: https://google.com
+2026-03-03 19:39:43,540 - modules.content_analyzer - DEBUG - [content_analyzer.py:54] - Fetching page content from https://google.com...
+2026-03-03 19:39:43,544 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): google.com:443
+2026-03-03 19:39:44,052 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://google.com:443 "GET / HTTP/1.1" 301 220
+2026-03-03 19:39:44,056 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): www.google.com:443
+2026-03-03 19:39:44,708 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://www.google.com:443 "GET / HTTP/1.1" 200 None
+2026-03-03 19:39:44,754 - modules.content_analyzer - DEBUG - [content_analyzer.py:57] - Page fetched successfully, status code: 200
+2026-03-03 19:39:44,759 - modules.content_analyzer - DEBUG - [content_analyzer.py:61] - HTML parsed successfully
+2026-03-03 19:39:44,762 - modules.content_analyzer - WARNING - [content_analyzer.py:78] - Suspicious pattern 'javascript:' found 1 times in https://google.com
+2026-03-03 19:39:44,762 - modules.content_analyzer - WARNING - [content_analyzer.py:78] - Suspicious pattern 'onerror=' found 5 times in https://google.com
+2026-03-03 19:39:44,764 - modules.content_analyzer - WARNING - [content_analyzer.py:78] - Suspicious pattern 'onload=' found 3 times in https://google.com
+2026-03-03 19:39:44,766 - modules.content_analyzer - DEBUG - [content_analyzer.py:82] - Found 1 forms in page
+2026-03-03 19:39:44,767 - modules.content_analyzer - DEBUG - [content_analyzer.py:94] - Total warnings found: 9, spam_score: 90
+2026-03-03 19:39:44,767 - modules.content_analyzer - WARNING - [content_analyzer.py:100] - Content analysis verdict for https://google.com: DANGEROUS (9 warnings)
+2026-03-03 19:39:44,772 - __main__ - INFO - [app.py:207] - [CHECK] Content Analysis result: {'verdict': 'Dangerous', 'phishing_patterns': 0, 'malicious_scripts': 9, 'suspicious_forms': 0, 'spam_score': 90, 'score': 0, 'warnings': ['Found suspicious pattern: javascript: (1 times)', 'Found suspicious pattern: onerror= (5 times)', 'Found suspicious pattern: onload= (3 times)']}
+2026-03-03 19:39:44,774 - __main__ - INFO - [app.py:209] - [CHECK] Starting IP Intelligence check...
+2026-03-03 19:39:44,774 - modules.ip_intelligence - INFO - [ip_intelligence.py:28] - Starting IP intelligence check for domain: google.com
+2026-03-03 19:39:44,774 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:44] - Resolving domain google.com to IP address...
+2026-03-03 19:39:44,817 - modules.ip_intelligence - INFO - [ip_intelligence.py:47] - Domain google.com resolved to IP: 142.250.77.142
+2026-03-03 19:39:44,817 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:56] - Fetching IP information for 142.250.77.142...
+2026-03-03 19:39:44,818 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:134] - Calling IP API for 142.250.77.142...
+2026-03-03 19:39:44,820 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): ipapi.co:443
+2026-03-03 19:39:45,807 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://ipapi.co:443 "GET /142.250.77.142/json/ HTTP/1.1" 200 None
+2026-03-03 19:39:45,809 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:138] - IP API response for 142.250.77.142: {'ip': '142.250.77.142', 'network': '142.250.77.128/25', 'version': 'IPv4', 'city': 'Mumbai', 'region': 'Maharashtra', 'region_code': 'MH', 'country': 'IN', 'country_name': 'India', 'country_code': 'IN', 'country_code_iso3': 'IND', 'country_capital': 'New Delhi', 'country_tld': '.in', 'continent_code': 'AS', 'in_eu': False, 'postal': '400009', 'latitude': 19.0748, 'longitude': 72.8856, 'timezone': 'Asia/Kolkata', 'utc_offset': '+0530', 'country_calling_code': '+91', 'currency': 'INR', 'currency_name': 'Rupee', 'languages': 'en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc', 'country_area': 3287590.0, 'country_population': 1352617328, 'asn': 'AS15169', 'org': 'Google LLC'}
+2026-03-03 19:39:45,812 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:66] - IP info for 142.250.77.142: Country=India, ISP=Google LLC, IsVPN=False, IsProxy=False, IsTor=False
+2026-03-03 19:39:45,813 - modules.ip_intelligence - INFO - [ip_intelligence.py:83] - IP 142.250.77.142 appears to be regular ISP
+2026-03-03 19:39:45,813 - __main__ - INFO - [app.py:211] - [CHECK] IP Intelligence result: {'status': 'Resolved', 'ip_address': '142.250.77.142', 'country': 'India', 'isp': 'Google LLC', 'is_vpn': False, 'is_proxy': False, 'is_tor': False, 'is_datacenter': False, 'score': 80, 'warnings': []}
+2026-03-03 19:39:45,815 - __main__ - INFO - [app.py:214] - [STEP 3] Aggregating results and calculating score...
+2026-03-03 19:39:45,817 - modules.score_engine - INFO - [score_engine.py:40] - [SCORE ENGINE] Starting score calculation...
+2026-03-03 19:39:45,818 - modules.score_engine - DEBUG - [score_engine.py:41] - Input results: {'ssl': {'status': 'Error', 'error': "'datetime.datetime' object is not callable", 'score': 20}, 'whois': {'status': 'Not Found or Error', 'error': '[WinError 10061] No connection could be made because the target machine actively refused it', 'domain_age': 'Unknown', 'domain_age_days': 0, 'score': 30}, 'blacklist': {'status': 'Not Listed', 'is_malicious': False, 'threats_detected': 0, 'sources_checked': ['PhishTank'], 'verdict': 'Safe', 'score': 100, 'details': {'phishtank': {'is_listed': False, 'phishing_score': 0}}}, 'content': {'verdict': 'Dangerous', 'phishing_patterns': 0, 'malicious_scripts': 9, 'suspicious_forms': 0, 'spam_score': 90, 'score': 0, 'warnings': ['Found suspicious pattern: javascript: (1 times)', 'Found suspicious pattern: onerror= (5 times)', 'Found suspicious pattern: onload= (3 times)']}, 'ip': {'status': 'Resolved', 'ip_address': '142.250.77.142', 'country': 'India', 'isp': 'Google LLC', 'is_vpn': False, 'is_proxy': False, 'is_tor': False, 'is_datacenter': False, 'score': 80, 'warnings': []}}
+2026-03-03 19:39:45,818 - modules.score_engine - DEBUG - [score_engine.py:50] - [SCORE ENGINE] Extracted component scores - Blacklist: 100, SSL: 20, Domain Age: 30, Content: 0, IP: 80
+2026-03-03 19:39:45,818 - modules.score_engine - DEBUG - [score_engine.py:63] - [SCORE ENGINE] Weighted calculation: (100 × 0.35) + (20 × 0.2) + (30 × 0.2) + (0 × 0.15) + (80 × 0.1) = 53.0
+2026-03-03 19:39:45,836 - modules.score_engine - DEBUG - [score_engine.py:105] - [VERDICT LOGIC] Determining verdict for score: 53.0
+2026-03-03 19:39:45,841 - modules.score_engine - INFO - [score_engine.py:67] - [SCORE ENGINE] Final score: 53.0, Verdict: Suspicious, Trust Level: Caution
+2026-03-03 19:39:45,843 - __main__ - INFO - [app.py:224] - [STEP 3] Score calculation complete: {'score': 53.0, 'verdict': 'Suspicious', 'trust_level': 'Caution', 'component_scores': {'blacklist': 100, 'ssl': 20, 'domain_age': 30, 'content': 0, 'ip': 80}, 'weights': {'blacklist': 0.35, 'ssl': 0.2, 'domain_age': 0.2, 'content': 0.15, 'ip': 0.1}}
+2026-03-03 19:39:45,844 - __main__ - INFO - [app.py:227] - [STEP 4] Building response...
+2026-03-03 19:39:45,849 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [03/Mar/2026 19:39:45] "POST /verify HTTP/1.1" 200 -
+2026-03-03 19:40:13,941 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'C:\\Users\\ELCOT\\website\\backend\\modules\\content_analyzer.py', reloading
+2026-03-03 19:40:14,217 - werkzeug - INFO - [_internal.py:97] -  * Restarting with stat
+2026-03-03 19:40:14,864 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:40:14,864 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:40:14,864 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:40:14,867 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:40:14,874 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:40:14,874 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:40:14,895 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:40:15,226 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:40:15,229 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:40:19,275 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'C:\\Users\\ELCOT\\website\\backend\\modules\\content_analyzer.py', reloading
+2026-03-03 19:40:19,472 - werkzeug - INFO - [_internal.py:97] -  * Restarting with stat
+2026-03-03 19:40:20,110 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:40:20,110 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:40:20,112 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:40:20,113 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:40:20,118 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:40:20,118 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:40:20,136 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:40:20,410 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:40:20,414 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:40:25,451 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'C:\\Users\\ELCOT\\website\\backend\\app.py', reloading
+2026-03-03 19:40:25,678 - werkzeug - INFO - [_internal.py:97] -  * Restarting with stat
+2026-03-03 19:40:26,452 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:40:26,454 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:40:26,454 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:40:26,457 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:40:26,463 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:40:26,463 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:40:26,494 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:40:26,806 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:40:26,808 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:40:28,834 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'C:\\Users\\ELCOT\\website\\backend\\app.py', reloading
+2026-03-03 19:40:29,048 - werkzeug - INFO - [_internal.py:97] -  * Restarting with stat
+2026-03-03 19:40:29,736 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:40:29,737 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:40:29,737 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:40:29,739 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:40:29,743 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:40:29,744 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:40:29,764 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:40:30,061 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:40:30,064 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:42:09,854 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:42:09,854 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:42:09,855 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:42:09,857 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:42:09,860 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:42:09,860 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:42:09,880 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:42:10,167 - werkzeug - INFO - [_internal.py:97] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.33.142:5000
+2026-03-03 19:42:10,168 - werkzeug - INFO - [_internal.py:97] - [33mPress CTRL+C to quit[0m
+2026-03-03 19:42:10,171 - werkzeug - INFO - [_internal.py:97] -  * Restarting with stat
+2026-03-03 19:42:10,791 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:42:10,792 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:42:10,792 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:42:10,794 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:42:10,799 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:42:10,799 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:42:10,815 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:42:11,066 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:42:11,069 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:42:56,093 - __main__ - INFO - [app.py:166] - [VERIFY REQUEST] Starting verification for URL: https://google.com
+2026-03-03 19:42:56,095 - modules.url_parser - DEBUG - [url_parser.py:15] - URLParser initialized
+2026-03-03 19:42:56,097 - modules.ssl_checker - DEBUG - [ssl_checker.py:17] - SSLChecker initialized
+2026-03-03 19:42:56,097 - modules.whois_lookup - DEBUG - [whois_lookup.py:14] - WHOISLookup initialized
+2026-03-03 19:42:56,097 - modules.blacklist_check - DEBUG - [blacklist_check.py:18] - BlacklistCheck initialized
+2026-03-03 19:42:56,098 - modules.content_analyzer - DEBUG - [content_analyzer.py:33] - ContentAnalyzer initialized with strict pattern matching
+2026-03-03 19:42:56,100 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:16] - IPIntelligence initialized
+2026-03-03 19:42:56,100 - modules.score_engine - DEBUG - [score_engine.py:20] - ScoreEngine initialized with weights: {'blacklist': 0.35, 'ssl': 0.2, 'domain_age': 0.2, 'content': 0.15, 'ip': 0.1}
+2026-03-03 19:42:56,100 - __main__ - DEBUG - [app.py:180] - All verification modules initialized
+2026-03-03 19:42:56,101 - __main__ - INFO - [app.py:183] - [STEP 1] Parsing URL...
+2026-03-03 19:42:56,101 - modules.url_parser - DEBUG - [url_parser.py:29] - Parsing URL: https://google.com
+2026-03-03 19:42:56,103 - filelock - DEBUG - [_api.py:497] - Attempting to acquire lock 2052926737168 on C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2026-03-03 19:42:56,105 - filelock - DEBUG - [_api.py:500] - Lock 2052926737168 acquired on C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2026-03-03 19:42:56,106 - filelock - DEBUG - [_api.py:537] - Attempting to release lock 2052926737168 on C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2026-03-03 19:42:56,109 - filelock - DEBUG - [_api.py:541] - Lock 2052926737168 released on C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2026-03-03 19:42:56,137 - modules.url_parser - DEBUG - [url_parser.py:69] - URL validation result for 'https://google.com': True
+2026-03-03 19:42:56,139 - modules.url_parser - INFO - [url_parser.py:50] - URL parsed successfully - Domain: google.com, TLD: com, Valid: True
+2026-03-03 19:42:56,139 - __main__ - INFO - [app.py:188] - [STEP 1] URL parsed successfully: {'raw_url': 'https://google.com', 'protocol': 'https', 'domain': 'google.com', 'subdomain': '', 'tld': 'com', 'path': '', 'query': '', 'port': None, 'is_valid': True}
+2026-03-03 19:42:56,140 - __main__ - INFO - [app.py:191] - [STEP 2] Running verification checks...
+2026-03-03 19:42:56,140 - __main__ - INFO - [app.py:193] - [CHECK] Starting SSL Certificate check...
+2026-03-03 19:42:56,142 - modules.ssl_checker - INFO - [ssl_checker.py:30] - Starting SSL certificate check for domain: google.com
+2026-03-03 19:42:56,165 - modules.ssl_checker - DEBUG - [ssl_checker.py:33] - Connecting to google.com:443 for SSL check...
+2026-03-03 19:42:56,241 - modules.ssl_checker - DEBUG - [ssl_checker.py:38] - SSL certificate retrieved for google.com
+2026-03-03 19:42:56,243 - modules.ssl_checker - ERROR - [ssl_checker.py:84] - Unexpected error during SSL check for google.com: 'datetime.datetime' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\website\backend\modules\ssl_checker.py", line 48, in check
+    expiry_date = cert_obj.not_valid_after()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'datetime.datetime' object is not callable
+2026-03-03 19:42:56,246 - __main__ - INFO - [app.py:195] - [CHECK] SSL result: {'status': 'Error', 'error': "'datetime.datetime' object is not callable", 'score': 20}
+2026-03-03 19:42:56,246 - __main__ - INFO - [app.py:197] - [CHECK] Starting WHOIS/Domain Age check...
+2026-03-03 19:42:56,246 - modules.whois_lookup - INFO - [whois_lookup.py:27] - Starting WHOIS lookup for domain: google.com
+2026-03-03 19:42:58,585 - modules.whois_lookup - ERROR - [whois_lookup.py:68] - WHOIS lookup failed for google.com: [WinError 10061] No connection could be made because the target machine actively refused it
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\website\backend\modules\whois_lookup.py", line 29, in check
+    domain_info = whois.whois(domain)
+                  ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\__init__.py", line 46, in whois
+    text = nic_client.whois_lookup(None, domain.encode("idna"), flags, quiet=quiet)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 425, in whois_lookup
+    nichost = self.choose_server(query_arg)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 390, in choose_server
+    return self.findwhois_iana(tld)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 150, in findwhois_iana
+    s.connect(("whois.iana.org", 43))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-03 19:42:58,587 - __main__ - INFO - [app.py:199] - [CHECK] WHOIS result: {'status': 'Not Found or Error', 'error': '[WinError 10061] No connection could be made because the target machine actively refused it', 'domain_age': 'Unknown', 'domain_age_days': 0, 'score': 30}
+2026-03-03 19:42:58,588 - __main__ - INFO - [app.py:201] - [CHECK] Starting Blacklist check...
+2026-03-03 19:42:58,589 - modules.blacklist_check - INFO - [blacklist_check.py:30] - Starting blacklist check for URL: https://google.com
+2026-03-03 19:42:58,590 - modules.blacklist_check - DEBUG - [blacklist_check.py:43] - Checking VirusTotal...
+2026-03-03 19:42:58,590 - modules.blacklist_check - DEBUG - [blacklist_check.py:105] - VirusTotal API key not configured
+2026-03-03 19:42:58,592 - modules.blacklist_check - DEBUG - [blacklist_check.py:53] - VirusTotal API key not available, skipping
+2026-03-03 19:42:58,592 - modules.blacklist_check - DEBUG - [blacklist_check.py:56] - Checking Google Safe Browsing...
+2026-03-03 19:42:58,592 - modules.blacklist_check - DEBUG - [blacklist_check.py:139] - Google Safe Browsing API key not configured
+2026-03-03 19:42:58,593 - modules.blacklist_check - DEBUG - [blacklist_check.py:65] - Google Safe Browsing API key not available, skipping
+2026-03-03 19:42:58,593 - modules.blacklist_check - DEBUG - [blacklist_check.py:68] - Checking PhishTank...
+2026-03-03 19:42:58,595 - modules.blacklist_check - DEBUG - [blacklist_check.py:181] - PhishTank check for https://google.com (placeholder)
+2026-03-03 19:42:58,595 - modules.blacklist_check - DEBUG - [blacklist_check.py:75] - PhishTank result: {'is_listed': False, 'phishing_score': 0}
+2026-03-03 19:42:58,597 - modules.blacklist_check - INFO - [blacklist_check.py:90] - URL https://google.com passed blacklist check - Score: 100
+2026-03-03 19:42:58,597 - __main__ - INFO - [app.py:203] - [CHECK] Blacklist result: {'status': 'Not Listed', 'is_malicious': False, 'threats_detected': 0, 'sources_checked': ['PhishTank'], 'verdict': 'Safe', 'score': 100, 'details': {'phishtank': {'is_listed': False, 'phishing_score': 0}}}
+2026-03-03 19:42:58,599 - __main__ - INFO - [app.py:205] - [CHECK] Starting Content Analysis...
+2026-03-03 19:42:58,599 - modules.content_analyzer - INFO - [content_analyzer.py:45] - Starting content analysis for URL: https://google.com
+2026-03-03 19:42:58,600 - modules.content_analyzer - DEBUG - [content_analyzer.py:61] - Fetching page content from https://google.com...
+2026-03-03 19:42:58,605 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): google.com:443
+2026-03-03 19:42:59,139 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://google.com:443 "GET / HTTP/1.1" 301 220
+2026-03-03 19:42:59,141 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): www.google.com:443
+2026-03-03 19:42:59,707 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://www.google.com:443 "GET / HTTP/1.1" 200 None
+2026-03-03 19:42:59,838 - modules.content_analyzer - DEBUG - [content_analyzer.py:64] - Page fetched successfully, status code: 200
+2026-03-03 19:42:59,846 - modules.content_analyzer - DEBUG - [content_analyzer.py:68] - HTML parsed successfully
+2026-03-03 19:42:59,853 - modules.content_analyzer - DEBUG - [content_analyzer.py:89] - Found 1 forms in page
+2026-03-03 19:42:59,855 - modules.content_analyzer - DEBUG - [content_analyzer.py:101] - Total warnings found: 0, spam_score: 0
+2026-03-03 19:42:59,855 - modules.content_analyzer - INFO - [content_analyzer.py:115] - Content analysis verdict for https://google.com: SAFE (0 warnings)
+2026-03-03 19:42:59,858 - __main__ - INFO - [app.py:207] - [CHECK] Content Analysis result: {'verdict': 'Safe', 'phishing_patterns': 0, 'malicious_scripts': 0, 'suspicious_forms': 0, 'spam_score': 0, 'score': 100, 'warnings': []}
+2026-03-03 19:42:59,860 - __main__ - INFO - [app.py:209] - [CHECK] Starting IP Intelligence check...
+2026-03-03 19:42:59,863 - modules.ip_intelligence - INFO - [ip_intelligence.py:28] - Starting IP intelligence check for domain: google.com
+2026-03-03 19:42:59,864 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:44] - Resolving domain google.com to IP address...
+2026-03-03 19:42:59,901 - modules.ip_intelligence - INFO - [ip_intelligence.py:47] - Domain google.com resolved to IP: 142.250.77.142
+2026-03-03 19:42:59,904 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:56] - Fetching IP information for 142.250.77.142...
+2026-03-03 19:42:59,904 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:134] - Calling IP API for 142.250.77.142...
+2026-03-03 19:42:59,906 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): ipapi.co:443
+2026-03-03 19:43:00,714 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://ipapi.co:443 "GET /142.250.77.142/json/ HTTP/1.1" 200 None
+2026-03-03 19:43:00,717 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:138] - IP API response for 142.250.77.142: {'ip': '142.250.77.142', 'network': '142.250.77.128/25', 'version': 'IPv4', 'city': 'Mumbai', 'region': 'Maharashtra', 'region_code': 'MH', 'country': 'IN', 'country_name': 'India', 'country_code': 'IN', 'country_code_iso3': 'IND', 'country_capital': 'New Delhi', 'country_tld': '.in', 'continent_code': 'AS', 'in_eu': False, 'postal': '400009', 'latitude': 19.0748, 'longitude': 72.8856, 'timezone': 'Asia/Kolkata', 'utc_offset': '+0530', 'country_calling_code': '+91', 'currency': 'INR', 'currency_name': 'Rupee', 'languages': 'en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc', 'country_area': 3287590.0, 'country_population': 1352617328, 'asn': 'AS15169', 'org': 'Google LLC'}
+2026-03-03 19:43:00,720 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:66] - IP info for 142.250.77.142: Country=India, ISP=Google LLC, IsVPN=False, IsProxy=False, IsTor=False
+2026-03-03 19:43:00,720 - modules.ip_intelligence - INFO - [ip_intelligence.py:83] - IP 142.250.77.142 appears to be regular ISP
+2026-03-03 19:43:00,722 - __main__ - INFO - [app.py:211] - [CHECK] IP Intelligence result: {'status': 'Resolved', 'ip_address': '142.250.77.142', 'country': 'India', 'isp': 'Google LLC', 'is_vpn': False, 'is_proxy': False, 'is_tor': False, 'is_datacenter': False, 'score': 80, 'warnings': []}
+2026-03-03 19:43:00,724 - __main__ - INFO - [app.py:214] - [STEP 3] Aggregating results and calculating score...
+2026-03-03 19:43:00,724 - modules.score_engine - INFO - [score_engine.py:40] - [SCORE ENGINE] Starting score calculation...
+2026-03-03 19:43:00,726 - modules.score_engine - DEBUG - [score_engine.py:41] - Input results: {'ssl': {'status': 'Error', 'error': "'datetime.datetime' object is not callable", 'score': 20}, 'whois': {'status': 'Not Found or Error', 'error': '[WinError 10061] No connection could be made because the target machine actively refused it', 'domain_age': 'Unknown', 'domain_age_days': 0, 'score': 30}, 'blacklist': {'status': 'Not Listed', 'is_malicious': False, 'threats_detected': 0, 'sources_checked': ['PhishTank'], 'verdict': 'Safe', 'score': 100, 'details': {'phishtank': {'is_listed': False, 'phishing_score': 0}}}, 'content': {'verdict': 'Safe', 'phishing_patterns': 0, 'malicious_scripts': 0, 'suspicious_forms': 0, 'spam_score': 0, 'score': 100, 'warnings': []}, 'ip': {'status': 'Resolved', 'ip_address': '142.250.77.142', 'country': 'India', 'isp': 'Google LLC', 'is_vpn': False, 'is_proxy': False, 'is_tor': False, 'is_datacenter': False, 'score': 80, 'warnings': []}}
+2026-03-03 19:43:00,726 - modules.score_engine - DEBUG - [score_engine.py:50] - [SCORE ENGINE] Extracted component scores - Blacklist: 100, SSL: 20, Domain Age: 30, Content: 100, IP: 80
+2026-03-03 19:43:00,730 - modules.score_engine - DEBUG - [score_engine.py:63] - [SCORE ENGINE] Weighted calculation: (100 × 0.35) + (20 × 0.2) + (30 × 0.2) + (100 × 0.15) + (80 × 0.1) = 68.0
+2026-03-03 19:43:00,731 - modules.score_engine - DEBUG - [score_engine.py:105] - [VERDICT LOGIC] Determining verdict for score: 68.0
+2026-03-03 19:43:00,749 - modules.score_engine - INFO - [score_engine.py:67] - [SCORE ENGINE] Final score: 68.0, Verdict: Suspicious, Trust Level: Caution
+2026-03-03 19:43:00,749 - __main__ - INFO - [app.py:224] - [STEP 3] Score calculation complete: {'score': 68.0, 'verdict': 'Suspicious', 'trust_level': 'Caution', 'component_scores': {'blacklist': 100, 'ssl': 20, 'domain_age': 30, 'content': 100, 'ip': 80}, 'weights': {'blacklist': 0.35, 'ssl': 0.2, 'domain_age': 0.2, 'content': 0.15, 'ip': 0.1}}
+2026-03-03 19:43:00,751 - __main__ - INFO - [app.py:227] - [STEP 4] Building response...
+2026-03-03 19:43:00,751 - __main__ - INFO - [app.py:245] - [VERIFY REQUEST] Verification completed successfully. Final verdict: Suspicious (Score: 68.0)
+2026-03-03 19:43:00,754 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [03/Mar/2026 19:43:00] "POST /verify HTTP/1.1" 200 -
+2026-03-03 19:44:26,919 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'C:\\Users\\ELCOT\\website\\backend\\modules\\ssl_checker.py', reloading
+2026-03-03 19:44:27,205 - werkzeug - INFO - [_internal.py:97] -  * Restarting with stat
+2026-03-03 19:44:27,934 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:44:27,936 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:44:27,936 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:44:27,937 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:44:27,944 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:44:27,946 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:44:27,967 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:44:28,298 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:44:28,301 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:44:41,342 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:44:41,353 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:44:41,355 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:44:41,356 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:44:41,361 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:44:41,362 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:44:41,379 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:44:41,662 - werkzeug - INFO - [_internal.py:97] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.33.142:5000
+2026-03-03 19:44:41,662 - werkzeug - INFO - [_internal.py:97] - [33mPress CTRL+C to quit[0m
+2026-03-03 19:44:41,665 - werkzeug - INFO - [_internal.py:97] -  * Restarting with stat
+2026-03-03 19:44:42,300 - __main__ - INFO - [app.py:42] - ================================================================================
+2026-03-03 19:44:42,300 - __main__ - INFO - [app.py:43] - Website Genuineness Verification System - Logger Initialized
+2026-03-03 19:44:42,302 - __main__ - INFO - [app.py:44] - ================================================================================
+2026-03-03 19:44:42,304 - __main__ - DEBUG - [app.py:48] - Flask app initialized
+2026-03-03 19:44:42,307 - __main__ - INFO - [app.py:54] - CORS enabled
+2026-03-03 19:44:42,307 - __main__ - INFO - [app.py:62] - Database configured: sqlite:///verification.db
+2026-03-03 19:44:42,328 - __main__ - DEBUG - [app.py:66] - Database initialized
+2026-03-03 19:44:42,594 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2026-03-03 19:44:42,597 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 182-168-495
+2026-03-03 19:45:14,285 - __main__ - INFO - [app.py:166] - [VERIFY REQUEST] Starting verification for URL: https://google.com
+2026-03-03 19:45:14,287 - modules.url_parser - DEBUG - [url_parser.py:15] - URLParser initialized
+2026-03-03 19:45:14,288 - modules.ssl_checker - DEBUG - [ssl_checker.py:17] - SSLChecker initialized
+2026-03-03 19:45:14,288 - modules.whois_lookup - DEBUG - [whois_lookup.py:14] - WHOISLookup initialized
+2026-03-03 19:45:14,294 - modules.blacklist_check - DEBUG - [blacklist_check.py:18] - BlacklistCheck initialized
+2026-03-03 19:45:14,295 - modules.content_analyzer - DEBUG - [content_analyzer.py:33] - ContentAnalyzer initialized with strict pattern matching
+2026-03-03 19:45:14,297 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:16] - IPIntelligence initialized
+2026-03-03 19:45:14,298 - modules.score_engine - DEBUG - [score_engine.py:20] - ScoreEngine initialized with weights: {'blacklist': 0.35, 'ssl': 0.2, 'domain_age': 0.2, 'content': 0.15, 'ip': 0.1}
+2026-03-03 19:45:14,300 - __main__ - DEBUG - [app.py:180] - All verification modules initialized
+2026-03-03 19:45:14,303 - __main__ - INFO - [app.py:183] - [STEP 1] Parsing URL...
+2026-03-03 19:45:14,305 - modules.url_parser - DEBUG - [url_parser.py:29] - Parsing URL: https://google.com
+2026-03-03 19:45:14,306 - filelock - DEBUG - [_api.py:497] - Attempting to acquire lock 1807286799120 on C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2026-03-03 19:45:14,308 - filelock - DEBUG - [_api.py:500] - Lock 1807286799120 acquired on C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2026-03-03 19:45:14,314 - filelock - DEBUG - [_api.py:537] - Attempting to release lock 1807286799120 on C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2026-03-03 19:45:14,316 - filelock - DEBUG - [_api.py:541] - Lock 1807286799120 released on C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2026-03-03 19:45:14,363 - modules.url_parser - DEBUG - [url_parser.py:69] - URL validation result for 'https://google.com': True
+2026-03-03 19:45:14,366 - modules.url_parser - INFO - [url_parser.py:50] - URL parsed successfully - Domain: google.com, TLD: com, Valid: True
+2026-03-03 19:45:14,366 - __main__ - INFO - [app.py:188] - [STEP 1] URL parsed successfully: {'raw_url': 'https://google.com', 'protocol': 'https', 'domain': 'google.com', 'subdomain': '', 'tld': 'com', 'path': '', 'query': '', 'port': None, 'is_valid': True}
+2026-03-03 19:45:14,367 - __main__ - INFO - [app.py:191] - [STEP 2] Running verification checks...
+2026-03-03 19:45:14,369 - __main__ - INFO - [app.py:193] - [CHECK] Starting SSL Certificate check...
+2026-03-03 19:45:14,369 - modules.ssl_checker - INFO - [ssl_checker.py:30] - Starting SSL certificate check for domain: google.com
+2026-03-03 19:45:14,419 - modules.ssl_checker - DEBUG - [ssl_checker.py:33] - Connecting to google.com:443 for SSL check...
+2026-03-03 19:45:14,550 - modules.ssl_checker - DEBUG - [ssl_checker.py:38] - SSL certificate retrieved for google.com
+2026-03-03 19:45:14,550 - modules.ssl_checker - INFO - [ssl_checker.py:63] - SSL check completed for google.com: Status=Valid, Score=100
+2026-03-03 19:45:14,554 - __main__ - INFO - [app.py:195] - [CHECK] SSL result: {'status': 'Valid', 'issuer': 'Google Trust Services', 'expiry_date': '2026-04-27T08:36:41', 'is_expired': False, 'is_self_signed': False, 'score': 100}
+2026-03-03 19:45:14,555 - __main__ - INFO - [app.py:197] - [CHECK] Starting WHOIS/Domain Age check...
+2026-03-03 19:45:14,555 - modules.whois_lookup - INFO - [whois_lookup.py:27] - Starting WHOIS lookup for domain: google.com
+2026-03-03 19:45:16,932 - modules.whois_lookup - ERROR - [whois_lookup.py:68] - WHOIS lookup failed for google.com: [WinError 10061] No connection could be made because the target machine actively refused it
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\website\backend\modules\whois_lookup.py", line 29, in check
+    domain_info = whois.whois(domain)
+                  ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\__init__.py", line 46, in whois
+    text = nic_client.whois_lookup(None, domain.encode("idna"), flags, quiet=quiet)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 425, in whois_lookup
+    nichost = self.choose_server(query_arg)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 390, in choose_server
+    return self.findwhois_iana(tld)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 150, in findwhois_iana
+    s.connect(("whois.iana.org", 43))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-03 19:45:16,933 - __main__ - INFO - [app.py:199] - [CHECK] WHOIS result: {'status': 'Not Found or Error', 'error': '[WinError 10061] No connection could be made because the target machine actively refused it', 'domain_age': 'Unknown', 'domain_age_days': 0, 'score': 30}
+2026-03-03 19:45:16,935 - __main__ - INFO - [app.py:201] - [CHECK] Starting Blacklist check...
+2026-03-03 19:45:16,935 - modules.blacklist_check - INFO - [blacklist_check.py:30] - Starting blacklist check for URL: https://google.com
+2026-03-03 19:45:16,937 - modules.blacklist_check - DEBUG - [blacklist_check.py:43] - Checking VirusTotal...
+2026-03-03 19:45:16,937 - modules.blacklist_check - DEBUG - [blacklist_check.py:105] - VirusTotal API key not configured
+2026-03-03 19:45:16,938 - modules.blacklist_check - DEBUG - [blacklist_check.py:53] - VirusTotal API key not available, skipping
+2026-03-03 19:45:16,938 - modules.blacklist_check - DEBUG - [blacklist_check.py:56] - Checking Google Safe Browsing...
+2026-03-03 19:45:16,938 - modules.blacklist_check - DEBUG - [blacklist_check.py:139] - Google Safe Browsing API key not configured
+2026-03-03 19:45:16,940 - modules.blacklist_check - DEBUG - [blacklist_check.py:65] - Google Safe Browsing API key not available, skipping
+2026-03-03 19:45:16,942 - modules.blacklist_check - DEBUG - [blacklist_check.py:68] - Checking PhishTank...
+2026-03-03 19:45:16,943 - modules.blacklist_check - DEBUG - [blacklist_check.py:181] - PhishTank check for https://google.com (placeholder)
+2026-03-03 19:45:16,943 - modules.blacklist_check - DEBUG - [blacklist_check.py:75] - PhishTank result: {'is_listed': False, 'phishing_score': 0}
+2026-03-03 19:45:16,943 - modules.blacklist_check - INFO - [blacklist_check.py:90] - URL https://google.com passed blacklist check - Score: 100
+2026-03-03 19:45:16,945 - __main__ - INFO - [app.py:203] - [CHECK] Blacklist result: {'status': 'Not Listed', 'is_malicious': False, 'threats_detected': 0, 'sources_checked': ['PhishTank'], 'verdict': 'Safe', 'score': 100, 'details': {'phishtank': {'is_listed': False, 'phishing_score': 0}}}
+2026-03-03 19:45:16,946 - __main__ - INFO - [app.py:205] - [CHECK] Starting Content Analysis...
+2026-03-03 19:45:16,948 - modules.content_analyzer - INFO - [content_analyzer.py:45] - Starting content analysis for URL: https://google.com
+2026-03-03 19:45:16,948 - modules.content_analyzer - DEBUG - [content_analyzer.py:61] - Fetching page content from https://google.com...
+2026-03-03 19:45:16,953 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): google.com:443
+2026-03-03 19:45:17,586 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://google.com:443 "GET / HTTP/1.1" 301 220
+2026-03-03 19:45:17,588 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): www.google.com:443
+2026-03-03 19:45:18,204 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://www.google.com:443 "GET / HTTP/1.1" 200 None
+2026-03-03 19:45:18,335 - modules.content_analyzer - DEBUG - [content_analyzer.py:64] - Page fetched successfully, status code: 200
+2026-03-03 19:45:18,340 - modules.content_analyzer - DEBUG - [content_analyzer.py:68] - HTML parsed successfully
+2026-03-03 19:45:18,348 - modules.content_analyzer - DEBUG - [content_analyzer.py:89] - Found 1 forms in page
+2026-03-03 19:45:18,348 - modules.content_analyzer - DEBUG - [content_analyzer.py:101] - Total warnings found: 0, spam_score: 0
+2026-03-03 19:45:18,349 - modules.content_analyzer - INFO - [content_analyzer.py:115] - Content analysis verdict for https://google.com: SAFE (0 warnings)
+2026-03-03 19:45:18,352 - __main__ - INFO - [app.py:207] - [CHECK] Content Analysis result: {'verdict': 'Safe', 'phishing_patterns': 0, 'malicious_scripts': 0, 'suspicious_forms': 0, 'spam_score': 0, 'score': 100, 'warnings': []}
+2026-03-03 19:45:18,354 - __main__ - INFO - [app.py:209] - [CHECK] Starting IP Intelligence check...
+2026-03-03 19:45:18,356 - modules.ip_intelligence - INFO - [ip_intelligence.py:28] - Starting IP intelligence check for domain: google.com
+2026-03-03 19:45:18,356 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:44] - Resolving domain google.com to IP address...
+2026-03-03 19:45:18,357 - modules.ip_intelligence - INFO - [ip_intelligence.py:47] - Domain google.com resolved to IP: 142.250.77.142
+2026-03-03 19:45:18,357 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:56] - Fetching IP information for 142.250.77.142...
+2026-03-03 19:45:18,357 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:134] - Calling IP API for 142.250.77.142...
+2026-03-03 19:45:18,361 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): ipapi.co:443
+2026-03-03 19:45:19,115 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://ipapi.co:443 "GET /142.250.77.142/json/ HTTP/1.1" 200 None
+2026-03-03 19:45:19,116 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:138] - IP API response for 142.250.77.142: {'ip': '142.250.77.142', 'network': '142.250.77.128/25', 'version': 'IPv4', 'city': 'Mumbai', 'region': 'Maharashtra', 'region_code': 'MH', 'country': 'IN', 'country_name': 'India', 'country_code': 'IN', 'country_code_iso3': 'IND', 'country_capital': 'New Delhi', 'country_tld': '.in', 'continent_code': 'AS', 'in_eu': False, 'postal': '400009', 'latitude': 19.0748, 'longitude': 72.8856, 'timezone': 'Asia/Kolkata', 'utc_offset': '+0530', 'country_calling_code': '+91', 'currency': 'INR', 'currency_name': 'Rupee', 'languages': 'en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc', 'country_area': 3287590.0, 'country_population': 1352617328, 'asn': 'AS15169', 'org': 'Google LLC'}
+2026-03-03 19:45:19,120 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:66] - IP info for 142.250.77.142: Country=India, ISP=Google LLC, IsVPN=False, IsProxy=False, IsTor=False
+2026-03-03 19:45:19,120 - modules.ip_intelligence - INFO - [ip_intelligence.py:83] - IP 142.250.77.142 appears to be regular ISP
+2026-03-03 19:45:19,120 - __main__ - INFO - [app.py:211] - [CHECK] IP Intelligence result: {'status': 'Resolved', 'ip_address': '142.250.77.142', 'country': 'India', 'isp': 'Google LLC', 'is_vpn': False, 'is_proxy': False, 'is_tor': False, 'is_datacenter': False, 'score': 80, 'warnings': []}
+2026-03-03 19:45:19,122 - __main__ - INFO - [app.py:214] - [STEP 3] Aggregating results and calculating score...
+2026-03-03 19:45:19,122 - modules.score_engine - INFO - [score_engine.py:40] - [SCORE ENGINE] Starting score calculation...
+2026-03-03 19:45:19,124 - modules.score_engine - DEBUG - [score_engine.py:41] - Input results: {'ssl': {'status': 'Valid', 'issuer': 'Google Trust Services', 'expiry_date': '2026-04-27T08:36:41', 'is_expired': False, 'is_self_signed': False, 'score': 100}, 'whois': {'status': 'Not Found or Error', 'error': '[WinError 10061] No connection could be made because the target machine actively refused it', 'domain_age': 'Unknown', 'domain_age_days': 0, 'score': 30}, 'blacklist': {'status': 'Not Listed', 'is_malicious': False, 'threats_detected': 0, 'sources_checked': ['PhishTank'], 'verdict': 'Safe', 'score': 100, 'details': {'phishtank': {'is_listed': False, 'phishing_score': 0}}}, 'content': {'verdict': 'Safe', 'phishing_patterns': 0, 'malicious_scripts': 0, 'suspicious_forms': 0, 'spam_score': 0, 'score': 100, 'warnings': []}, 'ip': {'status': 'Resolved', 'ip_address': '142.250.77.142', 'country': 'India', 'isp': 'Google LLC', 'is_vpn': False, 'is_proxy': False, 'is_tor': False, 'is_datacenter': False, 'score': 80, 'warnings': []}}
+2026-03-03 19:45:19,124 - modules.score_engine - DEBUG - [score_engine.py:50] - [SCORE ENGINE] Extracted component scores - Blacklist: 100, SSL: 100, Domain Age: 30, Content: 100, IP: 80
+2026-03-03 19:45:19,125 - modules.score_engine - DEBUG - [score_engine.py:63] - [SCORE ENGINE] Weighted calculation: (100 × 0.35) + (100 × 0.2) + (30 × 0.2) + (100 × 0.15) + (80 × 0.1) = 84.0
+2026-03-03 19:45:19,125 - modules.score_engine - DEBUG - [score_engine.py:105] - [VERDICT LOGIC] Determining verdict for score: 84.0
+2026-03-03 19:45:19,134 - modules.score_engine - INFO - [score_engine.py:67] - [SCORE ENGINE] Final score: 84.0, Verdict: Genuine, Trust Level: Safe
+2026-03-03 19:45:19,137 - __main__ - INFO - [app.py:224] - [STEP 3] Score calculation complete: {'score': 84.0, 'verdict': 'Genuine', 'trust_level': 'Safe', 'component_scores': {'blacklist': 100, 'ssl': 100, 'domain_age': 30, 'content': 100, 'ip': 80}, 'weights': {'blacklist': 0.35, 'ssl': 0.2, 'domain_age': 0.2, 'content': 0.15, 'ip': 0.1}}
+2026-03-03 19:45:19,137 - __main__ - INFO - [app.py:227] - [STEP 4] Building response...
+2026-03-03 19:45:19,138 - __main__ - INFO - [app.py:245] - [VERIFY REQUEST] Verification completed successfully. Final verdict: Genuine (Score: 84.0)
+2026-03-03 19:45:19,140 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [03/Mar/2026 19:45:19] "POST /verify HTTP/1.1" 200 -
+2026-03-03 19:50:42,957 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [03/Mar/2026 19:50:42] "GET / HTTP/1.1" 200 -
+2026-03-03 19:57:40,994 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [03/Mar/2026 19:57:40] "OPTIONS /verify HTTP/1.1" 200 -
+2026-03-03 19:57:41,247 - __main__ - INFO - [app.py:166] - [VERIFY REQUEST] Starting verification for URL: https://google.com
+2026-03-03 19:57:41,247 - modules.url_parser - DEBUG - [url_parser.py:15] - URLParser initialized
+2026-03-03 19:57:41,247 - modules.ssl_checker - DEBUG - [ssl_checker.py:17] - SSLChecker initialized
+2026-03-03 19:57:41,249 - modules.whois_lookup - DEBUG - [whois_lookup.py:14] - WHOISLookup initialized
+2026-03-03 19:57:41,249 - modules.blacklist_check - DEBUG - [blacklist_check.py:18] - BlacklistCheck initialized
+2026-03-03 19:57:41,251 - modules.content_analyzer - DEBUG - [content_analyzer.py:33] - ContentAnalyzer initialized with strict pattern matching
+2026-03-03 19:57:41,251 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:16] - IPIntelligence initialized
+2026-03-03 19:57:41,251 - modules.score_engine - DEBUG - [score_engine.py:20] - ScoreEngine initialized with weights: {'blacklist': 0.35, 'ssl': 0.2, 'domain_age': 0.2, 'content': 0.15, 'ip': 0.1}
+2026-03-03 19:57:41,252 - __main__ - DEBUG - [app.py:180] - All verification modules initialized
+2026-03-03 19:57:41,252 - __main__ - INFO - [app.py:183] - [STEP 1] Parsing URL...
+2026-03-03 19:57:41,254 - modules.url_parser - DEBUG - [url_parser.py:29] - Parsing URL: https://google.com
+2026-03-03 19:57:41,254 - modules.url_parser - DEBUG - [url_parser.py:69] - URL validation result for 'https://google.com': True
+2026-03-03 19:57:41,254 - modules.url_parser - INFO - [url_parser.py:50] - URL parsed successfully - Domain: google.com, TLD: com, Valid: True
+2026-03-03 19:57:41,256 - __main__ - INFO - [app.py:188] - [STEP 1] URL parsed successfully: {'raw_url': 'https://google.com', 'protocol': 'https', 'domain': 'google.com', 'subdomain': '', 'tld': 'com', 'path': '', 'query': '', 'port': None, 'is_valid': True}
+2026-03-03 19:57:41,256 - __main__ - INFO - [app.py:191] - [STEP 2] Running verification checks...
+2026-03-03 19:57:41,257 - __main__ - INFO - [app.py:193] - [CHECK] Starting SSL Certificate check...
+2026-03-03 19:57:41,257 - modules.ssl_checker - INFO - [ssl_checker.py:30] - Starting SSL certificate check for domain: google.com
+2026-03-03 19:57:41,275 - modules.ssl_checker - DEBUG - [ssl_checker.py:33] - Connecting to google.com:443 for SSL check...
+2026-03-03 19:57:41,424 - modules.ssl_checker - DEBUG - [ssl_checker.py:38] - SSL certificate retrieved for google.com
+2026-03-03 19:57:41,424 - modules.ssl_checker - INFO - [ssl_checker.py:63] - SSL check completed for google.com: Status=Valid, Score=100
+2026-03-03 19:57:41,427 - __main__ - INFO - [app.py:195] - [CHECK] SSL result: {'status': 'Valid', 'issuer': 'Google Trust Services', 'expiry_date': '2026-04-27T08:36:41', 'is_expired': False, 'is_self_signed': False, 'score': 100}
+2026-03-03 19:57:41,427 - __main__ - INFO - [app.py:197] - [CHECK] Starting WHOIS/Domain Age check...
+2026-03-03 19:57:41,428 - modules.whois_lookup - INFO - [whois_lookup.py:27] - Starting WHOIS lookup for domain: google.com
+2026-03-03 19:57:43,561 - modules.whois_lookup - ERROR - [whois_lookup.py:68] - WHOIS lookup failed for google.com: [WinError 10061] No connection could be made because the target machine actively refused it
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\website\backend\modules\whois_lookup.py", line 29, in check
+    domain_info = whois.whois(domain)
+                  ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\__init__.py", line 46, in whois
+    text = nic_client.whois_lookup(None, domain.encode("idna"), flags, quiet=quiet)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 425, in whois_lookup
+    nichost = self.choose_server(query_arg)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 390, in choose_server
+    return self.findwhois_iana(tld)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 150, in findwhois_iana
+    s.connect(("whois.iana.org", 43))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-03 19:57:43,563 - __main__ - INFO - [app.py:199] - [CHECK] WHOIS result: {'status': 'Not Found or Error', 'error': '[WinError 10061] No connection could be made because the target machine actively refused it', 'domain_age': 'Unknown', 'domain_age_days': 0, 'score': 30}
+2026-03-03 19:57:43,563 - __main__ - INFO - [app.py:201] - [CHECK] Starting Blacklist check...
+2026-03-03 19:57:43,563 - modules.blacklist_check - INFO - [blacklist_check.py:30] - Starting blacklist check for URL: https://google.com
+2026-03-03 19:57:43,564 - modules.blacklist_check - DEBUG - [blacklist_check.py:43] - Checking VirusTotal...
+2026-03-03 19:57:43,564 - modules.blacklist_check - DEBUG - [blacklist_check.py:105] - VirusTotal API key not configured
+2026-03-03 19:57:43,566 - modules.blacklist_check - DEBUG - [blacklist_check.py:53] - VirusTotal API key not available, skipping
+2026-03-03 19:57:43,566 - modules.blacklist_check - DEBUG - [blacklist_check.py:56] - Checking Google Safe Browsing...
+2026-03-03 19:57:43,566 - modules.blacklist_check - DEBUG - [blacklist_check.py:139] - Google Safe Browsing API key not configured
+2026-03-03 19:57:43,568 - modules.blacklist_check - DEBUG - [blacklist_check.py:65] - Google Safe Browsing API key not available, skipping
+2026-03-03 19:57:43,568 - modules.blacklist_check - DEBUG - [blacklist_check.py:68] - Checking PhishTank...
+2026-03-03 19:57:43,569 - modules.blacklist_check - DEBUG - [blacklist_check.py:181] - PhishTank check for https://google.com (placeholder)
+2026-03-03 19:57:43,569 - modules.blacklist_check - DEBUG - [blacklist_check.py:75] - PhishTank result: {'is_listed': False, 'phishing_score': 0}
+2026-03-03 19:57:43,569 - modules.blacklist_check - INFO - [blacklist_check.py:90] - URL https://google.com passed blacklist check - Score: 100
+2026-03-03 19:57:43,571 - __main__ - INFO - [app.py:203] - [CHECK] Blacklist result: {'status': 'Not Listed', 'is_malicious': False, 'threats_detected': 0, 'sources_checked': ['PhishTank'], 'verdict': 'Safe', 'score': 100, 'details': {'phishtank': {'is_listed': False, 'phishing_score': 0}}}
+2026-03-03 19:57:43,571 - __main__ - INFO - [app.py:205] - [CHECK] Starting Content Analysis...
+2026-03-03 19:57:43,571 - modules.content_analyzer - INFO - [content_analyzer.py:45] - Starting content analysis for URL: https://google.com
+2026-03-03 19:57:43,573 - modules.content_analyzer - DEBUG - [content_analyzer.py:61] - Fetching page content from https://google.com...
+2026-03-03 19:57:43,576 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): google.com:443
+2026-03-03 19:57:44,082 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://google.com:443 "GET / HTTP/1.1" 301 220
+2026-03-03 19:57:44,085 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): www.google.com:443
+2026-03-03 19:57:44,662 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://www.google.com:443 "GET / HTTP/1.1" 200 None
+2026-03-03 19:57:44,802 - modules.content_analyzer - DEBUG - [content_analyzer.py:64] - Page fetched successfully, status code: 200
+2026-03-03 19:57:44,809 - modules.content_analyzer - DEBUG - [content_analyzer.py:68] - HTML parsed successfully
+2026-03-03 19:57:44,815 - modules.content_analyzer - DEBUG - [content_analyzer.py:89] - Found 1 forms in page
+2026-03-03 19:57:44,817 - modules.content_analyzer - DEBUG - [content_analyzer.py:101] - Total warnings found: 0, spam_score: 0
+2026-03-03 19:57:44,818 - modules.content_analyzer - INFO - [content_analyzer.py:115] - Content analysis verdict for https://google.com: SAFE (0 warnings)
+2026-03-03 19:57:44,822 - __main__ - INFO - [app.py:207] - [CHECK] Content Analysis result: {'verdict': 'Safe', 'phishing_patterns': 0, 'malicious_scripts': 0, 'suspicious_forms': 0, 'spam_score': 0, 'score': 100, 'warnings': []}
+2026-03-03 19:57:44,823 - __main__ - INFO - [app.py:209] - [CHECK] Starting IP Intelligence check...
+2026-03-03 19:57:44,825 - modules.ip_intelligence - INFO - [ip_intelligence.py:28] - Starting IP intelligence check for domain: google.com
+2026-03-03 19:57:44,826 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:44] - Resolving domain google.com to IP address...
+2026-03-03 19:57:44,844 - modules.ip_intelligence - INFO - [ip_intelligence.py:47] - Domain google.com resolved to IP: 142.250.77.142
+2026-03-03 19:57:44,844 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:56] - Fetching IP information for 142.250.77.142...
+2026-03-03 19:57:44,845 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:134] - Calling IP API for 142.250.77.142...
+2026-03-03 19:57:44,847 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): ipapi.co:443
+2026-03-03 19:57:45,737 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://ipapi.co:443 "GET /142.250.77.142/json/ HTTP/1.1" 429 116
+2026-03-03 19:57:45,740 - modules.ip_intelligence - WARNING - [ip_intelligence.py:89] - Limited IP information available for 142.250.77.142
+2026-03-03 19:57:45,741 - __main__ - INFO - [app.py:211] - [CHECK] IP Intelligence result: {'status': 'Resolved (Limited info)', 'ip_address': '142.250.77.142', 'country': 'Unknown', 'isp': 'Unknown', 'is_vpn': False, 'is_proxy': False, 'is_tor': False, 'is_datacenter': False, 'score': 60, 'warnings': []}
+2026-03-03 19:57:45,741 - __main__ - INFO - [app.py:214] - [STEP 3] Aggregating results and calculating score...
+2026-03-03 19:57:45,743 - modules.score_engine - INFO - [score_engine.py:40] - [SCORE ENGINE] Starting score calculation...
+2026-03-03 19:57:45,745 - modules.score_engine - DEBUG - [score_engine.py:41] - Input results: {'ssl': {'status': 'Valid', 'issuer': 'Google Trust Services', 'expiry_date': '2026-04-27T08:36:41', 'is_expired': False, 'is_self_signed': False, 'score': 100}, 'whois': {'status': 'Not Found or Error', 'error': '[WinError 10061] No connection could be made because the target machine actively refused it', 'domain_age': 'Unknown', 'domain_age_days': 0, 'score': 30}, 'blacklist': {'status': 'Not Listed', 'is_malicious': False, 'threats_detected': 0, 'sources_checked': ['PhishTank'], 'verdict': 'Safe', 'score': 100, 'details': {'phishtank': {'is_listed': False, 'phishing_score': 0}}}, 'content': {'verdict': 'Safe', 'phishing_patterns': 0, 'malicious_scripts': 0, 'suspicious_forms': 0, 'spam_score': 0, 'score': 100, 'warnings': []}, 'ip': {'status': 'Resolved (Limited info)', 'ip_address': '142.250.77.142', 'country': 'Unknown', 'isp': 'Unknown', 'is_vpn': False, 'is_proxy': False, 'is_tor': False, 'is_datacenter': False, 'score': 60, 'warnings': []}}
+2026-03-03 19:57:45,745 - modules.score_engine - DEBUG - [score_engine.py:50] - [SCORE ENGINE] Extracted component scores - Blacklist: 100, SSL: 100, Domain Age: 30, Content: 100, IP: 60
+2026-03-03 19:57:45,745 - modules.score_engine - DEBUG - [score_engine.py:63] - [SCORE ENGINE] Weighted calculation: (100 × 0.35) + (100 × 0.2) + (30 × 0.2) + (100 × 0.15) + (60 × 0.1) = 82.0
+2026-03-03 19:57:45,746 - modules.score_engine - DEBUG - [score_engine.py:105] - [VERDICT LOGIC] Determining verdict for score: 82.0
+2026-03-03 19:57:45,751 - modules.score_engine - INFO - [score_engine.py:67] - [SCORE ENGINE] Final score: 82.0, Verdict: Genuine, Trust Level: Safe
+2026-03-03 19:57:45,751 - __main__ - INFO - [app.py:224] - [STEP 3] Score calculation complete: {'score': 82.0, 'verdict': 'Genuine', 'trust_level': 'Safe', 'component_scores': {'blacklist': 100, 'ssl': 100, 'domain_age': 30, 'content': 100, 'ip': 60}, 'weights': {'blacklist': 0.35, 'ssl': 0.2, 'domain_age': 0.2, 'content': 0.15, 'ip': 0.1}}
+2026-03-03 19:57:45,753 - __main__ - INFO - [app.py:227] - [STEP 4] Building response...
+2026-03-03 19:57:45,753 - __main__ - INFO - [app.py:245] - [VERIFY REQUEST] Verification completed successfully. Final verdict: Genuine (Score: 82.0)
+2026-03-03 19:57:45,754 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [03/Mar/2026 19:57:45] "POST /verify HTTP/1.1" 200 -
+2026-03-03 19:58:52,557 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [03/Mar/2026 19:58:52] "OPTIONS /verify HTTP/1.1" 200 -
+2026-03-03 19:58:52,809 - __main__ - INFO - [app.py:166] - [VERIFY REQUEST] Starting verification for URL: https://yasr.com
+2026-03-03 19:58:52,809 - modules.url_parser - DEBUG - [url_parser.py:15] - URLParser initialized
+2026-03-03 19:58:52,809 - modules.ssl_checker - DEBUG - [ssl_checker.py:17] - SSLChecker initialized
+2026-03-03 19:58:52,811 - modules.whois_lookup - DEBUG - [whois_lookup.py:14] - WHOISLookup initialized
+2026-03-03 19:58:52,811 - modules.blacklist_check - DEBUG - [blacklist_check.py:18] - BlacklistCheck initialized
+2026-03-03 19:58:52,812 - modules.content_analyzer - DEBUG - [content_analyzer.py:33] - ContentAnalyzer initialized with strict pattern matching
+2026-03-03 19:58:52,812 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:16] - IPIntelligence initialized
+2026-03-03 19:58:52,812 - modules.score_engine - DEBUG - [score_engine.py:20] - ScoreEngine initialized with weights: {'blacklist': 0.35, 'ssl': 0.2, 'domain_age': 0.2, 'content': 0.15, 'ip': 0.1}
+2026-03-03 19:58:52,813 - __main__ - DEBUG - [app.py:180] - All verification modules initialized
+2026-03-03 19:58:52,815 - __main__ - INFO - [app.py:183] - [STEP 1] Parsing URL...
+2026-03-03 19:58:52,815 - modules.url_parser - DEBUG - [url_parser.py:29] - Parsing URL: https://yasr.com
+2026-03-03 19:58:52,815 - modules.url_parser - DEBUG - [url_parser.py:69] - URL validation result for 'https://yasr.com': True
+2026-03-03 19:58:52,817 - modules.url_parser - INFO - [url_parser.py:50] - URL parsed successfully - Domain: yasr.com, TLD: com, Valid: True
+2026-03-03 19:58:52,817 - __main__ - INFO - [app.py:188] - [STEP 1] URL parsed successfully: {'raw_url': 'https://yasr.com', 'protocol': 'https', 'domain': 'yasr.com', 'subdomain': '', 'tld': 'com', 'path': '', 'query': '', 'port': None, 'is_valid': True}
+2026-03-03 19:58:52,817 - __main__ - INFO - [app.py:191] - [STEP 2] Running verification checks...
+2026-03-03 19:58:52,818 - __main__ - INFO - [app.py:193] - [CHECK] Starting SSL Certificate check...
+2026-03-03 19:58:52,818 - modules.ssl_checker - INFO - [ssl_checker.py:30] - Starting SSL certificate check for domain: yasr.com
+2026-03-03 19:58:52,836 - modules.ssl_checker - DEBUG - [ssl_checker.py:33] - Connecting to yasr.com:443 for SSL check...
+2026-03-03 19:58:53,251 - modules.ssl_checker - DEBUG - [ssl_checker.py:38] - SSL certificate retrieved for yasr.com
+2026-03-03 19:58:53,252 - modules.ssl_checker - INFO - [ssl_checker.py:63] - SSL check completed for yasr.com: Status=Valid, Score=100
+2026-03-03 19:58:53,253 - __main__ - INFO - [app.py:195] - [CHECK] SSL result: {'status': 'Valid', 'issuer': 'GoDaddy.com, Inc.', 'expiry_date': '2026-08-30T20:14:19', 'is_expired': False, 'is_self_signed': False, 'score': 100}
+2026-03-03 19:58:53,254 - __main__ - INFO - [app.py:197] - [CHECK] Starting WHOIS/Domain Age check...
+2026-03-03 19:58:53,255 - modules.whois_lookup - INFO - [whois_lookup.py:27] - Starting WHOIS lookup for domain: yasr.com
+2026-03-03 19:58:55,640 - modules.whois_lookup - ERROR - [whois_lookup.py:68] - WHOIS lookup failed for yasr.com: [WinError 10061] No connection could be made because the target machine actively refused it
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\website\backend\modules\whois_lookup.py", line 29, in check
+    domain_info = whois.whois(domain)
+                  ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\__init__.py", line 46, in whois
+    text = nic_client.whois_lookup(None, domain.encode("idna"), flags, quiet=quiet)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 425, in whois_lookup
+    nichost = self.choose_server(query_arg)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 390, in choose_server
+    return self.findwhois_iana(tld)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 150, in findwhois_iana
+    s.connect(("whois.iana.org", 43))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-03 19:58:55,644 - __main__ - INFO - [app.py:199] - [CHECK] WHOIS result: {'status': 'Not Found or Error', 'error': '[WinError 10061] No connection could be made because the target machine actively refused it', 'domain_age': 'Unknown', 'domain_age_days': 0, 'score': 30}
+2026-03-03 19:58:55,645 - __main__ - INFO - [app.py:201] - [CHECK] Starting Blacklist check...
+2026-03-03 19:58:55,645 - modules.blacklist_check - INFO - [blacklist_check.py:30] - Starting blacklist check for URL: https://yasr.com
+2026-03-03 19:58:55,645 - modules.blacklist_check - DEBUG - [blacklist_check.py:43] - Checking VirusTotal...
+2026-03-03 19:58:55,645 - modules.blacklist_check - DEBUG - [blacklist_check.py:105] - VirusTotal API key not configured
+2026-03-03 19:58:55,647 - modules.blacklist_check - DEBUG - [blacklist_check.py:53] - VirusTotal API key not available, skipping
+2026-03-03 19:58:55,647 - modules.blacklist_check - DEBUG - [blacklist_check.py:56] - Checking Google Safe Browsing...
+2026-03-03 19:58:55,647 - modules.blacklist_check - DEBUG - [blacklist_check.py:139] - Google Safe Browsing API key not configured
+2026-03-03 19:58:55,648 - modules.blacklist_check - DEBUG - [blacklist_check.py:65] - Google Safe Browsing API key not available, skipping
+2026-03-03 19:58:55,648 - modules.blacklist_check - DEBUG - [blacklist_check.py:68] - Checking PhishTank...
+2026-03-03 19:58:55,648 - modules.blacklist_check - DEBUG - [blacklist_check.py:181] - PhishTank check for https://yasr.com (placeholder)
+2026-03-03 19:58:55,650 - modules.blacklist_check - DEBUG - [blacklist_check.py:75] - PhishTank result: {'is_listed': False, 'phishing_score': 0}
+2026-03-03 19:58:55,650 - modules.blacklist_check - INFO - [blacklist_check.py:90] - URL https://yasr.com passed blacklist check - Score: 100
+2026-03-03 19:58:55,652 - __main__ - INFO - [app.py:203] - [CHECK] Blacklist result: {'status': 'Not Listed', 'is_malicious': False, 'threats_detected': 0, 'sources_checked': ['PhishTank'], 'verdict': 'Safe', 'score': 100, 'details': {'phishtank': {'is_listed': False, 'phishing_score': 0}}}
+2026-03-03 19:58:55,652 - __main__ - INFO - [app.py:205] - [CHECK] Starting Content Analysis...
+2026-03-03 19:58:55,653 - modules.content_analyzer - INFO - [content_analyzer.py:45] - Starting content analysis for URL: https://yasr.com
+2026-03-03 19:58:55,653 - modules.content_analyzer - DEBUG - [content_analyzer.py:61] - Fetching page content from https://yasr.com...
+2026-03-03 19:58:55,656 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): yasr.com:443
+2026-03-03 19:58:56,323 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://yasr.com:443 "GET / HTTP/1.1" 200 114
+2026-03-03 19:58:56,323 - modules.content_analyzer - DEBUG - [content_analyzer.py:64] - Page fetched successfully, status code: 200
+2026-03-03 19:58:56,333 - charset_normalizer - DEBUG - [api.py:462] - Encoding detection: ascii is most likely the one.
+2026-03-03 19:58:56,333 - modules.content_analyzer - DEBUG - [content_analyzer.py:68] - HTML parsed successfully
+2026-03-03 19:58:56,334 - modules.content_analyzer - DEBUG - [content_analyzer.py:89] - Found 0 forms in page
+2026-03-03 19:58:56,334 - modules.content_analyzer - DEBUG - [content_analyzer.py:101] - Total warnings found: 0, spam_score: 0
+2026-03-03 19:58:56,336 - modules.content_analyzer - INFO - [content_analyzer.py:115] - Content analysis verdict for https://yasr.com: SAFE (0 warnings)
+2026-03-03 19:58:56,339 - __main__ - INFO - [app.py:207] - [CHECK] Content Analysis result: {'verdict': 'Safe', 'phishing_patterns': 0, 'malicious_scripts': 0, 'suspicious_forms': 0, 'spam_score': 0, 'score': 100, 'warnings': []}
+2026-03-03 19:58:56,341 - __main__ - INFO - [app.py:209] - [CHECK] Starting IP Intelligence check...
+2026-03-03 19:58:56,342 - modules.ip_intelligence - INFO - [ip_intelligence.py:28] - Starting IP intelligence check for domain: yasr.com
+2026-03-03 19:58:56,342 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:44] - Resolving domain yasr.com to IP address...
+2026-03-03 19:58:56,523 - modules.ip_intelligence - INFO - [ip_intelligence.py:47] - Domain yasr.com resolved to IP: 13.248.169.48
+2026-03-03 19:58:56,523 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:56] - Fetching IP information for 13.248.169.48...
+2026-03-03 19:58:56,525 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:134] - Calling IP API for 13.248.169.48...
+2026-03-03 19:58:56,527 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): ipapi.co:443
+2026-03-03 19:58:57,379 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://ipapi.co:443 "GET /13.248.169.48/json/ HTTP/1.1" 200 None
+2026-03-03 19:58:57,381 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:138] - IP API response for 13.248.169.48: {'ip': '13.248.169.48', 'network': '13.248.128.0/17', 'version': 'IPv4', 'city': 'Montreal', 'region': 'Quebec', 'region_code': 'QC', 'country': 'CA', 'country_name': 'Canada', 'country_code': 'CA', 'country_code_iso3': 'CAN', 'country_capital': 'Ottawa', 'country_tld': '.ca', 'continent_code': 'NA', 'in_eu': False, 'postal': 'H5A', 'latitude': 45.4992, 'longitude': -73.5646, 'timezone': 'America/Toronto', 'utc_offset': '-0500', 'country_calling_code': '+1', 'currency': 'CAD', 'currency_name': 'Dollar', 'languages': 'en-CA,fr-CA,iu', 'country_area': 9984670.0, 'country_population': 37058856, 'asn': 'AS16509', 'org': 'Amazon.com, Inc.'}
+2026-03-03 19:58:57,383 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:66] - IP info for 13.248.169.48: Country=Canada, ISP=Amazon.com, Inc., IsVPN=False, IsProxy=False, IsTor=False
+2026-03-03 19:58:57,384 - modules.ip_intelligence - INFO - [ip_intelligence.py:83] - IP 13.248.169.48 appears to be regular ISP
+2026-03-03 19:58:57,384 - __main__ - INFO - [app.py:211] - [CHECK] IP Intelligence result: {'status': 'Resolved', 'ip_address': '13.248.169.48', 'country': 'Canada', 'isp': 'Amazon.com, Inc.', 'is_vpn': False, 'is_proxy': False, 'is_tor': False, 'is_datacenter': False, 'score': 80, 'warnings': []}
+2026-03-03 19:58:57,386 - __main__ - INFO - [app.py:214] - [STEP 3] Aggregating results and calculating score...
+2026-03-03 19:58:57,386 - modules.score_engine - INFO - [score_engine.py:40] - [SCORE ENGINE] Starting score calculation...
+2026-03-03 19:58:57,388 - modules.score_engine - DEBUG - [score_engine.py:41] - Input results: {'ssl': {'status': 'Valid', 'issuer': 'GoDaddy.com, Inc.', 'expiry_date': '2026-08-30T20:14:19', 'is_expired': False, 'is_self_signed': False, 'score': 100}, 'whois': {'status': 'Not Found or Error', 'error': '[WinError 10061] No connection could be made because the target machine actively refused it', 'domain_age': 'Unknown', 'domain_age_days': 0, 'score': 30}, 'blacklist': {'status': 'Not Listed', 'is_malicious': False, 'threats_detected': 0, 'sources_checked': ['PhishTank'], 'verdict': 'Safe', 'score': 100, 'details': {'phishtank': {'is_listed': False, 'phishing_score': 0}}}, 'content': {'verdict': 'Safe', 'phishing_patterns': 0, 'malicious_scripts': 0, 'suspicious_forms': 0, 'spam_score': 0, 'score': 100, 'warnings': []}, 'ip': {'status': 'Resolved', 'ip_address': '13.248.169.48', 'country': 'Canada', 'isp': 'Amazon.com, Inc.', 'is_vpn': False, 'is_proxy': False, 'is_tor': False, 'is_datacenter': False, 'score': 80, 'warnings': []}}
+2026-03-03 19:58:57,388 - modules.score_engine - DEBUG - [score_engine.py:50] - [SCORE ENGINE] Extracted component scores - Blacklist: 100, SSL: 100, Domain Age: 30, Content: 100, IP: 80
+2026-03-03 19:58:57,389 - modules.score_engine - DEBUG - [score_engine.py:63] - [SCORE ENGINE] Weighted calculation: (100 × 0.35) + (100 × 0.2) + (30 × 0.2) + (100 × 0.15) + (80 × 0.1) = 84.0
+2026-03-03 19:58:57,389 - modules.score_engine - DEBUG - [score_engine.py:105] - [VERDICT LOGIC] Determining verdict for score: 84.0
+2026-03-03 19:58:57,394 - modules.score_engine - INFO - [score_engine.py:67] - [SCORE ENGINE] Final score: 84.0, Verdict: Genuine, Trust Level: Safe
+2026-03-03 19:58:57,394 - __main__ - INFO - [app.py:224] - [STEP 3] Score calculation complete: {'score': 84.0, 'verdict': 'Genuine', 'trust_level': 'Safe', 'component_scores': {'blacklist': 100, 'ssl': 100, 'domain_age': 30, 'content': 100, 'ip': 80}, 'weights': {'blacklist': 0.35, 'ssl': 0.2, 'domain_age': 0.2, 'content': 0.15, 'ip': 0.1}}
+2026-03-03 19:58:57,394 - __main__ - INFO - [app.py:227] - [STEP 4] Building response...
+2026-03-03 19:58:57,396 - __main__ - INFO - [app.py:245] - [VERIFY REQUEST] Verification completed successfully. Final verdict: Genuine (Score: 84.0)
+2026-03-03 19:58:57,398 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [03/Mar/2026 19:58:57] "POST /verify HTTP/1.1" 200 -
+2026-03-03 19:59:21,613 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [03/Mar/2026 19:59:21] "OPTIONS /verify HTTP/1.1" 200 -
+2026-03-03 19:59:21,869 - __main__ - INFO - [app.py:166] - [VERIFY REQUEST] Starting verification for URL: https://amzon.com
+2026-03-03 19:59:21,869 - modules.url_parser - DEBUG - [url_parser.py:15] - URLParser initialized
+2026-03-03 19:59:21,870 - modules.ssl_checker - DEBUG - [ssl_checker.py:17] - SSLChecker initialized
+2026-03-03 19:59:21,870 - modules.whois_lookup - DEBUG - [whois_lookup.py:14] - WHOISLookup initialized
+2026-03-03 19:59:21,872 - modules.blacklist_check - DEBUG - [blacklist_check.py:18] - BlacklistCheck initialized
+2026-03-03 19:59:21,872 - modules.content_analyzer - DEBUG - [content_analyzer.py:33] - ContentAnalyzer initialized with strict pattern matching
+2026-03-03 19:59:21,873 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:16] - IPIntelligence initialized
+2026-03-03 19:59:21,873 - modules.score_engine - DEBUG - [score_engine.py:20] - ScoreEngine initialized with weights: {'blacklist': 0.35, 'ssl': 0.2, 'domain_age': 0.2, 'content': 0.15, 'ip': 0.1}
+2026-03-03 19:59:21,873 - __main__ - DEBUG - [app.py:180] - All verification modules initialized
+2026-03-03 19:59:21,875 - __main__ - INFO - [app.py:183] - [STEP 1] Parsing URL...
+2026-03-03 19:59:21,875 - modules.url_parser - DEBUG - [url_parser.py:29] - Parsing URL: https://amzon.com
+2026-03-03 19:59:21,877 - modules.url_parser - DEBUG - [url_parser.py:69] - URL validation result for 'https://amzon.com': True
+2026-03-03 19:59:21,877 - modules.url_parser - INFO - [url_parser.py:50] - URL parsed successfully - Domain: amzon.com, TLD: com, Valid: True
+2026-03-03 19:59:21,877 - __main__ - INFO - [app.py:188] - [STEP 1] URL parsed successfully: {'raw_url': 'https://amzon.com', 'protocol': 'https', 'domain': 'amzon.com', 'subdomain': '', 'tld': 'com', 'path': '', 'query': '', 'port': None, 'is_valid': True}
+2026-03-03 19:59:21,877 - __main__ - INFO - [app.py:191] - [STEP 2] Running verification checks...
+2026-03-03 19:59:21,878 - __main__ - INFO - [app.py:193] - [CHECK] Starting SSL Certificate check...
+2026-03-03 19:59:21,878 - modules.ssl_checker - INFO - [ssl_checker.py:30] - Starting SSL certificate check for domain: amzon.com
+2026-03-03 19:59:21,894 - modules.ssl_checker - DEBUG - [ssl_checker.py:33] - Connecting to amzon.com:443 for SSL check...
+2026-03-03 19:59:22,580 - modules.ssl_checker - DEBUG - [ssl_checker.py:38] - SSL certificate retrieved for amzon.com
+2026-03-03 19:59:22,582 - modules.ssl_checker - INFO - [ssl_checker.py:63] - SSL check completed for amzon.com: Status=Valid, Score=100
+2026-03-03 19:59:22,582 - __main__ - INFO - [app.py:195] - [CHECK] SSL result: {'status': 'Valid', 'issuer': 'Amazon', 'expiry_date': '2026-12-03T23:59:59', 'is_expired': False, 'is_self_signed': False, 'score': 100}
+2026-03-03 19:59:22,583 - __main__ - INFO - [app.py:197] - [CHECK] Starting WHOIS/Domain Age check...
+2026-03-03 19:59:22,583 - modules.whois_lookup - INFO - [whois_lookup.py:27] - Starting WHOIS lookup for domain: amzon.com
+2026-03-03 19:59:24,726 - modules.whois_lookup - ERROR - [whois_lookup.py:68] - WHOIS lookup failed for amzon.com: [WinError 10061] No connection could be made because the target machine actively refused it
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\website\backend\modules\whois_lookup.py", line 29, in check
+    domain_info = whois.whois(domain)
+                  ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\__init__.py", line 46, in whois
+    text = nic_client.whois_lookup(None, domain.encode("idna"), flags, quiet=quiet)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 425, in whois_lookup
+    nichost = self.choose_server(query_arg)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 390, in choose_server
+    return self.findwhois_iana(tld)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 150, in findwhois_iana
+    s.connect(("whois.iana.org", 43))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-03 19:59:24,728 - __main__ - INFO - [app.py:199] - [CHECK] WHOIS result: {'status': 'Not Found or Error', 'error': '[WinError 10061] No connection could be made because the target machine actively refused it', 'domain_age': 'Unknown', 'domain_age_days': 0, 'score': 30}
+2026-03-03 19:59:24,729 - __main__ - INFO - [app.py:201] - [CHECK] Starting Blacklist check...
+2026-03-03 19:59:24,729 - modules.blacklist_check - INFO - [blacklist_check.py:30] - Starting blacklist check for URL: https://amzon.com
+2026-03-03 19:59:24,729 - modules.blacklist_check - DEBUG - [blacklist_check.py:43] - Checking VirusTotal...
+2026-03-03 19:59:24,729 - modules.blacklist_check - DEBUG - [blacklist_check.py:105] - VirusTotal API key not configured
+2026-03-03 19:59:24,731 - modules.blacklist_check - DEBUG - [blacklist_check.py:53] - VirusTotal API key not available, skipping
+2026-03-03 19:59:24,731 - modules.blacklist_check - DEBUG - [blacklist_check.py:56] - Checking Google Safe Browsing...
+2026-03-03 19:59:24,731 - modules.blacklist_check - DEBUG - [blacklist_check.py:139] - Google Safe Browsing API key not configured
+2026-03-03 19:59:24,733 - modules.blacklist_check - DEBUG - [blacklist_check.py:65] - Google Safe Browsing API key not available, skipping
+2026-03-03 19:59:24,733 - modules.blacklist_check - DEBUG - [blacklist_check.py:68] - Checking PhishTank...
+2026-03-03 19:59:24,734 - modules.blacklist_check - DEBUG - [blacklist_check.py:181] - PhishTank check for https://amzon.com (placeholder)
+2026-03-03 19:59:24,734 - modules.blacklist_check - DEBUG - [blacklist_check.py:75] - PhishTank result: {'is_listed': False, 'phishing_score': 0}
+2026-03-03 19:59:24,734 - modules.blacklist_check - INFO - [blacklist_check.py:90] - URL https://amzon.com passed blacklist check - Score: 100
+2026-03-03 19:59:24,736 - __main__ - INFO - [app.py:203] - [CHECK] Blacklist result: {'status': 'Not Listed', 'is_malicious': False, 'threats_detected': 0, 'sources_checked': ['PhishTank'], 'verdict': 'Safe', 'score': 100, 'details': {'phishtank': {'is_listed': False, 'phishing_score': 0}}}
+2026-03-03 19:59:24,736 - __main__ - INFO - [app.py:205] - [CHECK] Starting Content Analysis...
+2026-03-03 19:59:24,736 - modules.content_analyzer - INFO - [content_analyzer.py:45] - Starting content analysis for URL: https://amzon.com
+2026-03-03 19:59:24,738 - modules.content_analyzer - DEBUG - [content_analyzer.py:61] - Fetching page content from https://amzon.com...
+2026-03-03 19:59:24,739 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): amzon.com:443
+2026-03-03 19:59:25,827 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://amzon.com:443 "GET / HTTP/1.1" 301 134
+2026-03-03 19:59:25,829 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): www.amazon.com:443
+2026-03-03 19:59:26,265 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://www.amazon.com:443 "GET / HTTP/1.1" 202 0
+2026-03-03 19:59:26,269 - modules.content_analyzer - DEBUG - [content_analyzer.py:64] - Page fetched successfully, status code: 202
+2026-03-03 19:59:26,269 - charset_normalizer - DEBUG - [api.py:78] - Encoding detection on empty bytes, assuming utf_8 intention.
+2026-03-03 19:59:26,269 - modules.content_analyzer - DEBUG - [content_analyzer.py:68] - HTML parsed successfully
+2026-03-03 19:59:26,270 - modules.content_analyzer - DEBUG - [content_analyzer.py:89] - Found 0 forms in page
+2026-03-03 19:59:26,272 - modules.content_analyzer - DEBUG - [content_analyzer.py:101] - Total warnings found: 0, spam_score: 0
+2026-03-03 19:59:26,272 - modules.content_analyzer - INFO - [content_analyzer.py:115] - Content analysis verdict for https://amzon.com: SAFE (0 warnings)
+2026-03-03 19:59:26,275 - __main__ - INFO - [app.py:207] - [CHECK] Content Analysis result: {'verdict': 'Safe', 'phishing_patterns': 0, 'malicious_scripts': 0, 'suspicious_forms': 0, 'spam_score': 0, 'score': 100, 'warnings': []}
+2026-03-03 19:59:26,277 - __main__ - INFO - [app.py:209] - [CHECK] Starting IP Intelligence check...
+2026-03-03 19:59:26,277 - modules.ip_intelligence - INFO - [ip_intelligence.py:28] - Starting IP intelligence check for domain: amzon.com
+2026-03-03 19:59:26,277 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:44] - Resolving domain amzon.com to IP address...
+2026-03-03 19:59:26,296 - modules.ip_intelligence - INFO - [ip_intelligence.py:47] - Domain amzon.com resolved to IP: 15.197.245.13
+2026-03-03 19:59:26,298 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:56] - Fetching IP information for 15.197.245.13...
+2026-03-03 19:59:26,298 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:134] - Calling IP API for 15.197.245.13...
+2026-03-03 19:59:26,300 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): ipapi.co:443
+2026-03-03 19:59:27,113 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://ipapi.co:443 "GET /15.197.245.13/json/ HTTP/1.1" 200 None
+2026-03-03 19:59:27,113 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:138] - IP API response for 15.197.245.13: {'ip': '15.197.245.13', 'network': '15.197.128.0/17', 'version': 'IPv4', 'city': 'Montreal', 'region': 'Quebec', 'region_code': 'QC', 'country': 'CA', 'country_name': 'Canada', 'country_code': 'CA', 'country_code_iso3': 'CAN', 'country_capital': 'Ottawa', 'country_tld': '.ca', 'continent_code': 'NA', 'in_eu': False, 'postal': 'H5A', 'latitude': 45.4992, 'longitude': -73.5646, 'timezone': 'America/Toronto', 'utc_offset': '-0500', 'country_calling_code': '+1', 'currency': 'CAD', 'currency_name': 'Dollar', 'languages': 'en-CA,fr-CA,iu', 'country_area': 9984670.0, 'country_population': 37058856, 'asn': 'AS16509', 'org': 'Amazon.com, Inc.'}
+2026-03-03 19:59:27,116 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:66] - IP info for 15.197.245.13: Country=Canada, ISP=Amazon.com, Inc., IsVPN=False, IsProxy=False, IsTor=False
+2026-03-03 19:59:27,118 - modules.ip_intelligence - INFO - [ip_intelligence.py:83] - IP 15.197.245.13 appears to be regular ISP
+2026-03-03 19:59:27,118 - __main__ - INFO - [app.py:211] - [CHECK] IP Intelligence result: {'status': 'Resolved', 'ip_address': '15.197.245.13', 'country': 'Canada', 'isp': 'Amazon.com, Inc.', 'is_vpn': False, 'is_proxy': False, 'is_tor': False, 'is_datacenter': False, 'score': 80, 'warnings': []}
+2026-03-03 19:59:27,118 - __main__ - INFO - [app.py:214] - [STEP 3] Aggregating results and calculating score...
+2026-03-03 19:59:27,119 - modules.score_engine - INFO - [score_engine.py:40] - [SCORE ENGINE] Starting score calculation...
+2026-03-03 19:59:27,119 - modules.score_engine - DEBUG - [score_engine.py:41] - Input results: {'ssl': {'status': 'Valid', 'issuer': 'Amazon', 'expiry_date': '2026-12-03T23:59:59', 'is_expired': False, 'is_self_signed': False, 'score': 100}, 'whois': {'status': 'Not Found or Error', 'error': '[WinError 10061] No connection could be made because the target machine actively refused it', 'domain_age': 'Unknown', 'domain_age_days': 0, 'score': 30}, 'blacklist': {'status': 'Not Listed', 'is_malicious': False, 'threats_detected': 0, 'sources_checked': ['PhishTank'], 'verdict': 'Safe', 'score': 100, 'details': {'phishtank': {'is_listed': False, 'phishing_score': 0}}}, 'content': {'verdict': 'Safe', 'phishing_patterns': 0, 'malicious_scripts': 0, 'suspicious_forms': 0, 'spam_score': 0, 'score': 100, 'warnings': []}, 'ip': {'status': 'Resolved', 'ip_address': '15.197.245.13', 'country': 'Canada', 'isp': 'Amazon.com, Inc.', 'is_vpn': False, 'is_proxy': False, 'is_tor': False, 'is_datacenter': False, 'score': 80, 'warnings': []}}
+2026-03-03 19:59:27,121 - modules.score_engine - DEBUG - [score_engine.py:50] - [SCORE ENGINE] Extracted component scores - Blacklist: 100, SSL: 100, Domain Age: 30, Content: 100, IP: 80
+2026-03-03 19:59:27,121 - modules.score_engine - DEBUG - [score_engine.py:63] - [SCORE ENGINE] Weighted calculation: (100 × 0.35) + (100 × 0.2) + (30 × 0.2) + (100 × 0.15) + (80 × 0.1) = 84.0
+2026-03-03 19:59:27,123 - modules.score_engine - DEBUG - [score_engine.py:105] - [VERDICT LOGIC] Determining verdict for score: 84.0
+2026-03-03 19:59:27,128 - modules.score_engine - INFO - [score_engine.py:67] - [SCORE ENGINE] Final score: 84.0, Verdict: Genuine, Trust Level: Safe
+2026-03-03 19:59:27,128 - __main__ - INFO - [app.py:224] - [STEP 3] Score calculation complete: {'score': 84.0, 'verdict': 'Genuine', 'trust_level': 'Safe', 'component_scores': {'blacklist': 100, 'ssl': 100, 'domain_age': 30, 'content': 100, 'ip': 80}, 'weights': {'blacklist': 0.35, 'ssl': 0.2, 'domain_age': 0.2, 'content': 0.15, 'ip': 0.1}}
+2026-03-03 19:59:27,130 - __main__ - INFO - [app.py:227] - [STEP 4] Building response...
+2026-03-03 19:59:27,130 - __main__ - INFO - [app.py:245] - [VERIFY REQUEST] Verification completed successfully. Final verdict: Genuine (Score: 84.0)
+2026-03-03 19:59:27,132 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [03/Mar/2026 19:59:27] "POST /verify HTTP/1.1" 200 -
+2026-03-03 19:59:55,177 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [03/Mar/2026 19:59:55] "OPTIONS /verify HTTP/1.1" 200 -
+2026-03-03 19:59:55,497 - __main__ - INFO - [app.py:166] - [VERIFY REQUEST] Starting verification for URL: https://google.com
+2026-03-03 19:59:55,497 - modules.url_parser - DEBUG - [url_parser.py:15] - URLParser initialized
+2026-03-03 19:59:55,498 - modules.ssl_checker - DEBUG - [ssl_checker.py:17] - SSLChecker initialized
+2026-03-03 19:59:55,498 - modules.whois_lookup - DEBUG - [whois_lookup.py:14] - WHOISLookup initialized
+2026-03-03 19:59:55,498 - modules.blacklist_check - DEBUG - [blacklist_check.py:18] - BlacklistCheck initialized
+2026-03-03 19:59:55,500 - modules.content_analyzer - DEBUG - [content_analyzer.py:33] - ContentAnalyzer initialized with strict pattern matching
+2026-03-03 19:59:55,500 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:16] - IPIntelligence initialized
+2026-03-03 19:59:55,500 - modules.score_engine - DEBUG - [score_engine.py:20] - ScoreEngine initialized with weights: {'blacklist': 0.35, 'ssl': 0.2, 'domain_age': 0.2, 'content': 0.15, 'ip': 0.1}
+2026-03-03 19:59:55,502 - __main__ - DEBUG - [app.py:180] - All verification modules initialized
+2026-03-03 19:59:55,503 - __main__ - INFO - [app.py:183] - [STEP 1] Parsing URL...
+2026-03-03 19:59:55,503 - modules.url_parser - DEBUG - [url_parser.py:29] - Parsing URL: https://google.com
+2026-03-03 19:59:55,505 - modules.url_parser - DEBUG - [url_parser.py:69] - URL validation result for 'https://google.com': True
+2026-03-03 19:59:55,505 - modules.url_parser - INFO - [url_parser.py:50] - URL parsed successfully - Domain: google.com, TLD: com, Valid: True
+2026-03-03 19:59:55,505 - __main__ - INFO - [app.py:188] - [STEP 1] URL parsed successfully: {'raw_url': 'https://google.com', 'protocol': 'https', 'domain': 'google.com', 'subdomain': '', 'tld': 'com', 'path': '', 'query': '', 'port': None, 'is_valid': True}
+2026-03-03 19:59:55,507 - __main__ - INFO - [app.py:191] - [STEP 2] Running verification checks...
+2026-03-03 19:59:55,507 - __main__ - INFO - [app.py:193] - [CHECK] Starting SSL Certificate check...
+2026-03-03 19:59:55,507 - modules.ssl_checker - INFO - [ssl_checker.py:30] - Starting SSL certificate check for domain: google.com
+2026-03-03 19:59:55,523 - modules.ssl_checker - DEBUG - [ssl_checker.py:33] - Connecting to google.com:443 for SSL check...
+2026-03-03 19:59:55,708 - modules.ssl_checker - DEBUG - [ssl_checker.py:38] - SSL certificate retrieved for google.com
+2026-03-03 19:59:55,709 - modules.ssl_checker - INFO - [ssl_checker.py:63] - SSL check completed for google.com: Status=Valid, Score=100
+2026-03-03 19:59:55,711 - __main__ - INFO - [app.py:195] - [CHECK] SSL result: {'status': 'Valid', 'issuer': 'Google Trust Services', 'expiry_date': '2026-04-27T08:36:41', 'is_expired': False, 'is_self_signed': False, 'score': 100}
+2026-03-03 19:59:55,711 - __main__ - INFO - [app.py:197] - [CHECK] Starting WHOIS/Domain Age check...
+2026-03-03 19:59:55,711 - modules.whois_lookup - INFO - [whois_lookup.py:27] - Starting WHOIS lookup for domain: google.com
+2026-03-03 19:59:57,868 - modules.whois_lookup - ERROR - [whois_lookup.py:68] - WHOIS lookup failed for google.com: [WinError 10061] No connection could be made because the target machine actively refused it
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\website\backend\modules\whois_lookup.py", line 29, in check
+    domain_info = whois.whois(domain)
+                  ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\__init__.py", line 46, in whois
+    text = nic_client.whois_lookup(None, domain.encode("idna"), flags, quiet=quiet)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 425, in whois_lookup
+    nichost = self.choose_server(query_arg)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 390, in choose_server
+    return self.findwhois_iana(tld)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python311\Lib\site-packages\whois\whois.py", line 150, in findwhois_iana
+    s.connect(("whois.iana.org", 43))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-03 19:59:57,870 - __main__ - INFO - [app.py:199] - [CHECK] WHOIS result: {'status': 'Not Found or Error', 'error': '[WinError 10061] No connection could be made because the target machine actively refused it', 'domain_age': 'Unknown', 'domain_age_days': 0, 'score': 30}
+2026-03-03 19:59:57,870 - __main__ - INFO - [app.py:201] - [CHECK] Starting Blacklist check...
+2026-03-03 19:59:57,871 - modules.blacklist_check - INFO - [blacklist_check.py:30] - Starting blacklist check for URL: https://google.com
+2026-03-03 19:59:57,871 - modules.blacklist_check - DEBUG - [blacklist_check.py:43] - Checking VirusTotal...
+2026-03-03 19:59:57,871 - modules.blacklist_check - DEBUG - [blacklist_check.py:105] - VirusTotal API key not configured
+2026-03-03 19:59:57,873 - modules.blacklist_check - DEBUG - [blacklist_check.py:53] - VirusTotal API key not available, skipping
+2026-03-03 19:59:57,873 - modules.blacklist_check - DEBUG - [blacklist_check.py:56] - Checking Google Safe Browsing...
+2026-03-03 19:59:57,873 - modules.blacklist_check - DEBUG - [blacklist_check.py:139] - Google Safe Browsing API key not configured
+2026-03-03 19:59:57,875 - modules.blacklist_check - DEBUG - [blacklist_check.py:65] - Google Safe Browsing API key not available, skipping
+2026-03-03 19:59:57,875 - modules.blacklist_check - DEBUG - [blacklist_check.py:68] - Checking PhishTank...
+2026-03-03 19:59:57,876 - modules.blacklist_check - DEBUG - [blacklist_check.py:181] - PhishTank check for https://google.com (placeholder)
+2026-03-03 19:59:57,876 - modules.blacklist_check - DEBUG - [blacklist_check.py:75] - PhishTank result: {'is_listed': False, 'phishing_score': 0}
+2026-03-03 19:59:57,876 - modules.blacklist_check - INFO - [blacklist_check.py:90] - URL https://google.com passed blacklist check - Score: 100
+2026-03-03 19:59:57,878 - __main__ - INFO - [app.py:203] - [CHECK] Blacklist result: {'status': 'Not Listed', 'is_malicious': False, 'threats_detected': 0, 'sources_checked': ['PhishTank'], 'verdict': 'Safe', 'score': 100, 'details': {'phishtank': {'is_listed': False, 'phishing_score': 0}}}
+2026-03-03 19:59:57,878 - __main__ - INFO - [app.py:205] - [CHECK] Starting Content Analysis...
+2026-03-03 19:59:57,878 - modules.content_analyzer - INFO - [content_analyzer.py:45] - Starting content analysis for URL: https://google.com
+2026-03-03 19:59:57,879 - modules.content_analyzer - DEBUG - [content_analyzer.py:61] - Fetching page content from https://google.com...
+2026-03-03 19:59:57,881 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): google.com:443
+2026-03-03 19:59:58,467 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://google.com:443 "GET / HTTP/1.1" 301 220
+2026-03-03 19:59:58,469 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): www.google.com:443
+2026-03-03 19:59:59,277 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://www.google.com:443 "GET / HTTP/1.1" 200 None
+2026-03-03 19:59:59,373 - modules.content_analyzer - DEBUG - [content_analyzer.py:64] - Page fetched successfully, status code: 200
+2026-03-03 19:59:59,378 - modules.content_analyzer - DEBUG - [content_analyzer.py:68] - HTML parsed successfully
+2026-03-03 19:59:59,385 - modules.content_analyzer - DEBUG - [content_analyzer.py:89] - Found 1 forms in page
+2026-03-03 19:59:59,386 - modules.content_analyzer - DEBUG - [content_analyzer.py:101] - Total warnings found: 0, spam_score: 0
+2026-03-03 19:59:59,388 - modules.content_analyzer - INFO - [content_analyzer.py:115] - Content analysis verdict for https://google.com: SAFE (0 warnings)
+2026-03-03 19:59:59,393 - __main__ - INFO - [app.py:207] - [CHECK] Content Analysis result: {'verdict': 'Safe', 'phishing_patterns': 0, 'malicious_scripts': 0, 'suspicious_forms': 0, 'spam_score': 0, 'score': 100, 'warnings': []}
+2026-03-03 19:59:59,393 - __main__ - INFO - [app.py:209] - [CHECK] Starting IP Intelligence check...
+2026-03-03 19:59:59,395 - modules.ip_intelligence - INFO - [ip_intelligence.py:28] - Starting IP intelligence check for domain: google.com
+2026-03-03 19:59:59,395 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:44] - Resolving domain google.com to IP address...
+2026-03-03 19:59:59,396 - modules.ip_intelligence - INFO - [ip_intelligence.py:47] - Domain google.com resolved to IP: 142.250.77.142
+2026-03-03 19:59:59,396 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:56] - Fetching IP information for 142.250.77.142...
+2026-03-03 19:59:59,396 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:134] - Calling IP API for 142.250.77.142...
+2026-03-03 19:59:59,400 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): ipapi.co:443
+2026-03-03 20:00:00,351 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://ipapi.co:443 "GET /142.250.77.142/json/ HTTP/1.1" 200 None
+2026-03-03 20:00:00,353 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:138] - IP API response for 142.250.77.142: {'ip': '142.250.77.142', 'network': '142.250.77.128/25', 'version': 'IPv4', 'city': 'Mumbai', 'region': 'Maharashtra', 'region_code': 'MH', 'country': 'IN', 'country_name': 'India', 'country_code': 'IN', 'country_code_iso3': 'IND', 'country_capital': 'New Delhi', 'country_tld': '.in', 'continent_code': 'AS', 'in_eu': False, 'postal': '400009', 'latitude': 19.0748, 'longitude': 72.8856, 'timezone': 'Asia/Kolkata', 'utc_offset': '+0530', 'country_calling_code': '+91', 'currency': 'INR', 'currency_name': 'Rupee', 'languages': 'en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc', 'country_area': 3287590.0, 'country_population': 1352617328, 'asn': 'AS15169', 'org': 'Google LLC'}
+2026-03-03 20:00:00,356 - modules.ip_intelligence - DEBUG - [ip_intelligence.py:66] - IP info for 142.250.77.142: Country=India, ISP=Google LLC, IsVPN=False, IsProxy=False, IsTor=False
+2026-03-03 20:00:00,356 - modules.ip_intelligence - INFO - [ip_intelligence.py:83] - IP 142.250.77.142 appears to be regular ISP
+2026-03-03 20:00:00,358 - __main__ - INFO - [app.py:211] - [CHECK] IP Intelligence result: {'status': 'Resolved', 'ip_address': '142.250.77.142', 'country': 'India', 'isp': 'Google LLC', 'is_vpn': False, 'is_proxy': False, 'is_tor': False, 'is_datacenter': False, 'score': 80, 'warnings': []}
+2026-03-03 20:00:00,358 - __main__ - INFO - [app.py:214] - [STEP 3] Aggregating results and calculating score...
+2026-03-03 20:00:00,359 - modules.score_engine - INFO - [score_engine.py:40] - [SCORE ENGINE] Starting score calculation...
+2026-03-03 20:00:00,359 - modules.score_engine - DEBUG - [score_engine.py:41] - Input results: {'ssl': {'status': 'Valid', 'issuer': 'Google Trust Services', 'expiry_date': '2026-04-27T08:36:41', 'is_expired': False, 'is_self_signed': False, 'score': 100}, 'whois': {'status': 'Not Found or Error', 'error': '[WinError 10061] No connection could be made because the target machine actively refused it', 'domain_age': 'Unknown', 'domain_age_days': 0, 'score': 30}, 'blacklist': {'status': 'Not Listed', 'is_malicious': False, 'threats_detected': 0, 'sources_checked': ['PhishTank'], 'verdict': 'Safe', 'score': 100, 'details': {'phishtank': {'is_listed': False, 'phishing_score': 0}}}, 'content': {'verdict': 'Safe', 'phishing_patterns': 0, 'malicious_scripts': 0, 'suspicious_forms': 0, 'spam_score': 0, 'score': 100, 'warnings': []}, 'ip': {'status': 'Resolved', 'ip_address': '142.250.77.142', 'country': 'India', 'isp': 'Google LLC', 'is_vpn': False, 'is_proxy': False, 'is_tor': False, 'is_datacenter': False, 'score': 80, 'warnings': []}}
+2026-03-03 20:00:00,359 - modules.score_engine - DEBUG - [score_engine.py:50] - [SCORE ENGINE] Extracted component scores - Blacklist: 100, SSL: 100, Domain Age: 30, Content: 100, IP: 80
+2026-03-03 20:00:00,361 - modules.score_engine - DEBUG - [score_engine.py:63] - [SCORE ENGINE] Weighted calculation: (100 × 0.35) + (100 × 0.2) + (30 × 0.2) + (100 × 0.15) + (80 × 0.1) = 84.0
+2026-03-03 20:00:00,361 - modules.score_engine - DEBUG - [score_engine.py:105] - [VERDICT LOGIC] Determining verdict for score: 84.0
+2026-03-03 20:00:00,366 - modules.score_engine - INFO - [score_engine.py:67] - [SCORE ENGINE] Final score: 84.0, Verdict: Genuine, Trust Level: Safe
+2026-03-03 20:00:00,366 - __main__ - INFO - [app.py:224] - [STEP 3] Score calculation complete: {'score': 84.0, 'verdict': 'Genuine', 'trust_level': 'Safe', 'component_scores': {'blacklist': 100, 'ssl': 100, 'domain_age': 30, 'content': 100, 'ip': 80}, 'weights': {'blacklist': 0.35, 'ssl': 0.2, 'domain_age': 0.2, 'content': 0.15, 'ip': 0.1}}
+2026-03-03 20:00:00,366 - __main__ - INFO - [app.py:227] - [STEP 4] Building response...
+2026-03-03 20:00:00,367 - __main__ - INFO - [app.py:245] - [VERIFY REQUEST] Verification completed successfully. Final verdict: Genuine (Score: 84.0)
+2026-03-03 20:00:00,367 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [03/Mar/2026 20:00:00] "POST /verify HTTP/1.1" 200 -
